@@ -1,0 +1,26 @@
+{
+  "name": "apito-final",
+  "version": "1.0.0",
+  "description": "A project for people to get information about brazilian football matches and competitions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grqueiroz/apito-final.git"
+  },
+  "keywords": [
+    "football",
+    "brazilian",
+    "brazil",
+    "matches",
+    "results"
+  ],
+  "author": "Gabriel Rates de Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grqueiroz/apito-final/issues"
+  },
+  "homepage": "https://github.com/grqueiroz/apito-final#readme"
+}
