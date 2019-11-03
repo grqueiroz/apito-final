@@ -1,8 +1,8 @@
 const Matches = require('./model');
 
-const findByTeam = (team) => {
+const findByTeam = async (team) => {
     
-    const query = Matches
+    return await Matches
     .find({
         $or: [
             {home: team},
@@ -11,9 +11,7 @@ const findByTeam = (team) => {
     })
     .sort({
         round: 1
-    });
-
-    return query;
+    }).exec();
 
 }
 

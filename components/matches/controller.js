@@ -1,18 +1,17 @@
 const bodyParser = require('body-parser');
-const repository = require('./repository');
+const service = require('./service');
 
 module.exports = function(app) {
 
     app.use(bodyParser.json());
     app.use(bodyParser.urlencoded({ extended: true }));
 
-    app.get('/api/matches/:team', (req, res) => {
+    app.get('/api/matches/:team', async (req, res) => {
         const team = req.params.team;
 
-        const matches = repository.findByTeam(team);
-        matches.then(function(results) {
-            res.send(results);
-        });
+        const matches = await service.findByTeam(team);
+
+        res.send(matches);
 
     });
 
