@@ -15,6 +15,19 @@ const findByTeam = async (team) => {
 
 }
 
+const findByRound = async (round) => {
+    
+    return await Matches
+    .find({
+        round: round
+    })
+    .sort({
+        date: 1
+    }).exec();
+
+}
+
 module.exports = {
-    findByTeam
+    findByTeam,
+    findByRound
 }

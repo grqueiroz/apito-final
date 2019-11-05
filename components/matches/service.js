@@ -6,6 +6,13 @@ const findByTeam = async (team) => {
 
 }
 
+const findByRound = async (round) => {
+
+    return await repository.findByRound(round);
+
+}
+
 module.exports = {
-    findByTeam
+    findByTeam,
+    findByRound
 }
