@@ -2,6 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const config = require('./config');
 const matchesController = require('./components/matches/controller');
+const standingsController = require('./components/standings/controller');
 const setupController = require('./setup/controller');
 
 const app = express();
@@ -18,5 +19,6 @@ mongoose.connect(
 
 setupController(app);
 matchesController(app);
+standingsController(app);
 
 app.listen(port);
