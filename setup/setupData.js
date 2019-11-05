@@ -2,6 +2,7 @@ module.exports = {
 
     StartingMatches: [
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Fortaleza',
             away: 'Atlético-MG',
             homeScore: 2,
@@ -14,6 +15,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Corinthians',
             away: 'Fortaleza',
             homeScore: undefined,
@@ -26,6 +28,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Fortaleza',
             away: 'Ceará',
             homeScore: undefined,
@@ -38,6 +41,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Fortaleza',
             away: 'CSA',
             homeScore: undefined,
@@ -50,6 +54,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Internacional',
             away: 'Fortaleza',
             homeScore: undefined,
@@ -62,6 +67,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Fortaleza',
             away: 'Santos',
             homeScore: undefined,
@@ -74,6 +80,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Goiás',
             away: 'Fortaleza',
             homeScore: undefined,
@@ -86,6 +93,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Fluminense',
             away: 'Fortaleza',
             homeScore: undefined,
@@ -98,6 +106,7 @@ module.exports = {
             country: undefined
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Fortaleza',
             away: 'Bahia',
             homeScore: undefined,
@@ -110,6 +119,7 @@ module.exports = {
             country: undefined
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Athletico-PR',
             away: 'CSA',
             homeScore: 1,
@@ -122,6 +132,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Grêmio',
             away: 'CSA',
             homeScore: undefined,
@@ -134,6 +145,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'CSA',
             away: 'Vasco da Gama',
             homeScore: undefined,
@@ -146,6 +158,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'CSA',
             away: 'Fluminense',
             homeScore: undefined,
@@ -158,6 +171,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Cruzeiro',
             away: 'CSA',
             homeScore: undefined,
@@ -170,6 +184,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'CSA',
             away: 'Bahia',
             homeScore: undefined,
@@ -182,6 +197,7 @@ module.exports = {
             country: "Brasil"
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'Chapecoense',
             away: 'CSA',
             homeScore: undefined,
@@ -194,6 +210,7 @@ module.exports = {
             country: undefined
         },
         {
+            competition: 'Campeonato Brasileiro Série A',
             home: 'CSA',
             away: 'São Paulo',
             homeScore: undefined,

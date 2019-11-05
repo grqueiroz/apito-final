@@ -1,13 +1,10 @@
-const config = require('./config')
+const dotenv = require('dotenv');
+
+dotenv.config();
 
 module.exports = {
 
-    getDbConnectionString: function() {
-
-        url = `mongodb+srv://${config.username}:${config.password}@cluster0-gqzqm.mongodb.net/apito-final?retryWrites=true&w=majority`;
-        console.log(url);
-
-        return url;
-    }
+    dbConnectionString:  `mongodb+srv://${process.env.MONGODB_USERNAME}:${process.env.MONGODB_PASSWORD}@cluster0-gqzqm.mongodb.net/apito-final?retryWrites=true&w=majority`,
+    port: process.env.PORT
 
 }

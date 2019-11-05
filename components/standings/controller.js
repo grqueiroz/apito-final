@@ -6,11 +6,11 @@ module.exports = function(app) {
     app.use(bodyParser.json());
     app.use(bodyParser.urlencoded({ extended: true }));
 
-    app.get('/api/standings/round::round', async (req, res) => {
+    app.get('/api/standings', async (req, res) => {
         
-        const round = req.params.round;
+        const round = req.query.round;
 
-        const standings = await service.findByBaseRound(round);
+        const standings = await service.find(round);
 
         res.send(standings);
 

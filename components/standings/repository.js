@@ -1,17 +1,29 @@
 const Standings = require('./model');
 
-const findByBaseRound = async (round) => {
+const find = async (round) => {
     
-    return await Standings
-    .find({
-        baseRound: round
-    })
-    .sort({
-        position: 1
-    }).exec();
+    const findQuery = buildFindQuery(round);
+
+    return await findQuery.exec();
 
 }
 
+const buildFindQuery = (round) => {
+    let conditions = {};
+
+    if (round) {
+        conditions.baseRound = round;
+    }
+            
+    let findQuery = Standings
+        .find(conditions)
+        .sort({
+            position: 1
+        });
+
+    return findQuery;
+}
+
 module.exports = {
-    findByBaseRound
+    find
 }

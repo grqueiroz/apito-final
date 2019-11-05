@@ -1,11 +1,11 @@
 const repository = require('./repository');
 
-const findByBaseRound = async (round) => {
+const find = async (round) => {
 
-    return await repository.findByBaseRound(round);
+    return await repository.find(round);
 
 }
 
 module.exports = {
-    findByBaseRound
+    find
 }
