@@ -1,18 +1,11 @@
 const repository = require('./repository');
 
-const findByTeam = async (team) => {
+const find = async (teams, competition, round) => {
 
-    return await repository.findByTeam(team);
-
-}
-
-const findByRound = async (round) => {
-
-    return await repository.findByRound(round);
+    return await repository.find(teams, competition, round);
 
 }
 
 module.exports = {
-    findByTeam,
-    findByRound
+    find,
 }

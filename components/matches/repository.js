@@ -1,33 +1,38 @@
 const Matches = require('./model');
 
-const findByTeam = async (team) => {
+const find = async (teams, competition, round) => {
     
-    return await Matches
-    .find({
-        $or: [
-            {home: team},
-            {away: team}
-        ]
-    })
-    .sort({
-        round: 1
-    }).exec();
+    const findQuery = buildFindQuery(teams, competition, round);
+
+    return await findQuery.exec();
 
 }
 
-const findByRound = async (round) => {
-    
-    return await Matches
-    .find({
-        round: round
-    })
-    .sort({
-        date: 1
-    }).exec();
+const buildFindQuery = (teams, competition, round) => {
+    let conditions = {};
 
+    if (teams) {
+        conditions.$or = [
+            { home: { $in: teams } },
+            { away: { $in: teams } }
+        ];
+    }
+    if (competition) {
+        conditions.competition = competition;
+    }
+    if (round) {
+        conditions.round = round;
+    }
+            
+    let findQuery = Matches
+        .find(conditions)
+        .sort({
+            date: 1
+        });
+
+    return findQuery;
 }
 
 module.exports = {
-    findByTeam,
-    findByRound
+    find
 }

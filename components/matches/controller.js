@@ -6,21 +6,13 @@ module.exports = function(app) {
     app.use(bodyParser.json());
     app.use(bodyParser.urlencoded({ extended: true }));
 
-    app.get('/api/matches/team::team', async (req, res) => {
+    app.get('/api/matches', async (req, res) => {
         
-        const team = req.params.team;
+        const teams = req.query.team;
+        const competition = req.query.competition;
+        const round = req.query.round;
 
-        const matches = await service.findByTeam(team);
-
-        res.send(matches);
-
-    });
-
-    app.get('/api/matches/round::round', async (req, res) => {
-        
-        const round = req.params.round;
-
-        const matches = await service.findByRound(round);
+        const matches = await service.find(teams, competition, round);
 
         res.send(matches);
 
