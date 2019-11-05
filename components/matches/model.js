@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const matchSchema = new Schema({
+    competition: String,
     home: String,
     away: String,
     homeScore: Number,

@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const standingsSchema = new Schema({
+    competition: String,
     position: Number,
     team: String,
     points: Number,
