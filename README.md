@@ -1,2 +1,2 @@
 # apito-final
-A in progress project for people to get information about brazilian football matches and competitions
+A project for people to get information about brazilian football matches and competitions. Still in progress.
