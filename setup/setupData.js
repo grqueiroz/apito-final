@@ -1,6 +1,6 @@
 module.exports = {
 
-    StartingMatches: [
+    startingMatches: [
         {
             competition: 'CBRA19',
             home: 'Fortaleza',
@@ -223,6 +223,23 @@ module.exports = {
             country: undefined
         },
 
+    ],
+    startingTeams: [
+        {
+            name: 'Fortaleza',
+            fullName: 'Fortaleza Esporte Clube',
+            initials: 'FEC',
+            shortName: 'FOR',
+            aliases: [
+                'Leão',
+                'Tricolor de Aço',
+                'Leão do Pici'
+            ],
+            colors: [
+                'blue',
+                'red',
+                'white'
+            ]
+        }
     ]
-
 }

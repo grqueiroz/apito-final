@@ -1,11 +1,20 @@
 const Matches = require('../components/matches/model');
-const initialData = require('./setupMatches');
+const Teams = require('../components/teams/model');
+const initialData = require('./setupData');
 
 module.exports = function(app) {
 
     app.post('/setup/matches', function(req, res) {
 
-        Matches.create(initialData.StartingMatches, function(err, results) {
+        Matches.create(initialData.startingMatches, function(err, results) {
+            res.send(results);
+        });
+
+    });
+
+    app.post('/setup/teams', function(req, res) {
+
+        Teams.create(initialData.startingTeams, function(err, results) {
             res.send(results);
         });
 
