@@ -13,6 +13,7 @@ const standingsSchema = new Schema({
     losses: Number,
     goalsFor: Number,
     goalsAgainst: Number,
+    goalsDifference: Number,
     form: [Number],
     baseRound: Number
 });
