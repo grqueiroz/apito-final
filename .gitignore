@@ -62,3 +62,6 @@ typings/
 
 # IDE configs
 .vscode
+
+#setup data
+setup/setupData.js
