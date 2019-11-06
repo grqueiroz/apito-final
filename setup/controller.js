@@ -1,5 +1,5 @@
 const Matches = require('../components/matches/model');
-const initialData = require('./setupData');
+const initialData = require('./setupMatches');
 
 module.exports = function(app) {
 

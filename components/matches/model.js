@@ -10,7 +10,7 @@ const matchSchema = new Schema({
     awayScore: Number,
     date: Date,
     round: String,
-    venue: String,
+    stadium: String,
     city: String,
     state: String,
     country: String
