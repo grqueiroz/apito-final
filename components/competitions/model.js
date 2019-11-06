@@ -12,6 +12,7 @@ const competitionSchema = new Schema({
     region: String,         //Brasil
     scope: String,          //national (regional, international, world)
     knockoutStage: Boolean, //false
+    teams: [String]
 });
 
 const Competitions = mongoose.model('Competitions', competitionSchema);
