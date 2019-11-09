@@ -8,10 +8,12 @@ module.exports = function(app) {
 
     app.get('/api/standings', async (req, res) => {
         
-        const competition = req.query.competition;
-        const round = req.query.round;
+        const filter = {
+            competition: req.query.competition,
+            round: req.query.round
+        };
 
-        const standings = await service.find(competition, round);
+        const standings = await service.find(filter);
 
         res.send(standings);
 

@@ -1,8 +1,8 @@
 const repository = require('./repository');
 
-const find = async (teams, competition, round) => {
+const find = async (filter) => {
 
-    return await repository.find(teams, competition, round);
+    return await repository.find(filter);
 
 }
 

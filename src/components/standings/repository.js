@@ -1,14 +1,18 @@
 const Standings = require('./model');
 
-const find = async (competition, round) => {
+const find = async (filter) => {
     
-    const findQuery = buildFindQuery(competition, round);
+    const findQuery = buildFindQuery(filter);
 
     return await findQuery.exec();
 
 }
 
-const buildFindQuery = (competition, round) => {
+const buildFindQuery = (filter) => {
+
+    const competition = filter.competition;
+    const round = filter.round;
+
     let conditions = {};
 
     if (competition) {
