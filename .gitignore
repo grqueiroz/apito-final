@@ -64,4 +64,4 @@ typings/
 .vscode
 
 #setup data
-src/setup/setupData.js
+src/setup/
