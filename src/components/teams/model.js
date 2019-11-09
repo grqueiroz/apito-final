@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 
 const teamSchema = new Schema({
     name: String,       //Fortaleza
-    lowerName: String,   //fortaleza
+    lowerName: String,  //fortaleza
     fullName: String,   //Fortaleza Esporte Clube
     initials: String,   //FEC
     shortName: String,  //FOR
