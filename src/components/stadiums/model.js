@@ -4,6 +4,7 @@ const Schema = mongoose.Schema;
 
 const stadiumSchema = new Schema({
     name: String,           //Castelão
+    lowerName: String,      //castelão
     fullName: String,       //Estádio Governador Plácido Aderaldo Castelo
     capacity: Number,       //63903
     neighbourhood: String,  //Castelão
