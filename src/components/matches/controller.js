@@ -11,7 +11,8 @@ module.exports = function(app) {
         const filter = {
             teams: req.query.team,
             competition: req.query.competition,
-            round: req.query.round
+            round: req.query.round,
+            startingDate: req.query.startingDate
         };
 
         const matches = await service.find(filter);
