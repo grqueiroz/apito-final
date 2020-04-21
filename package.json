@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node src/app.js",
+    "start-dev": "nodemon src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -31,9 +32,15 @@
     "module-alias": "^2.2.2",
     "mongoose": "^5.7.7"
   },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
   "_moduleAliases": {
     "@api": "src/api",
     "@components": "src/components",
-    "@config": "src/config"
+    "@config": "src/config",
+    "@middleware": "src/middleware",
+    "@pretty": "src/pretty",
+    "@setup": "src/setup"
   }
 }

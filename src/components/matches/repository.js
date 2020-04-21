@@ -69,6 +69,7 @@ const buildFindConditions = (filter) => {
     const competition = filter.competition;
     const round = filter.round;
     const startingDate = filter.startingDate;
+    const isCompleted = filter.isCompleted;
     
     let conditions = {};
 
@@ -89,6 +90,13 @@ const buildFindConditions = (filter) => {
 
     if (startingDate) {
         conditions.date = { $gt: startingDate }
+    }
+
+    if (isCompleted) {
+        conditions.$and = [
+            { homeScore: { $ne: null } },
+            { awayScore: { $ne: null } }
+        ];
     }
 
     return conditions;

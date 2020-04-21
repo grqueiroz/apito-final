@@ -2,9 +2,7 @@ require('module-alias/register');
 const express = require('express');
 const mongoose = require('mongoose');
 const config = require('./config');
-const matchesController = require('@api/matches/controller');
-const standingsController = require('@api/standings/controller');
-const setupController = require('./setup/controller');
+const controllerManager = require('@middleware/controllerManager');
 
 const app = express();
 
@@ -18,9 +16,7 @@ mongoose.connect(
     }
 );
 
-setupController(app);
-matchesController(app);
-standingsController(app);
+controllerManager.register(app);
 
 console.log(`Starting application at port ${port}`);
 
