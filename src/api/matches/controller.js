@@ -1,5 +1,5 @@
 const bodyParser = require('body-parser');
-const service = require('../../components/matches/service');
+const service = require('@components/matches/service');
 
 module.exports = function(app) {
 
