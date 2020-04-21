@@ -1,8 +1,8 @@
 const Matches = require('./model');
 
-const find = async (filter) => {
+async function find(filter) {
     
-    const conditions = buildConditions(filter);
+    const conditions = buildFindConditions(filter);
     
     const findQuery = buildFindQuery(conditions);
 
@@ -10,18 +10,60 @@ const find = async (filter) => {
 
 }
 
-const buildFindQuery = (conditions) => {
+async function create(matches) {
+    let insertedMatches = [];
 
-    const findQuery = Matches
-        .find(conditions)
-        .sort({
-            date: 1
-        });
+    Matches.create(matches, function(err, results) {
+        insertedMatches.push(results);
+    });
 
-    return findQuery;
+    return insertedMatches;
 }
 
-const buildConditions = (filter) => {
+async function update(matches) {
+    let updatedMatches = [];
+
+    matches.forEach( match => {
+
+        const { conditions, set } = buildUpdateParameters(match);
+
+        Matches.updateOne(
+            conditions,
+            set,
+            function(err, results) {
+                updatedMatches.push(results);
+            }
+        );
+    });
+
+    return updatedMatches;
+}
+
+function buildUpdateParameters(match) {
+    
+    const conditions = { 
+        $and: [
+            { home: match.home },
+            { away: match.away },
+            { round: match.round }
+        ]
+    };
+
+    const set =  {
+        $set: {
+            homeScore: match.homeScore,
+            awayScore: match.awayScore,
+            date: match.date
+        }
+    };
+
+    return {
+        conditions,
+        set,
+    };
+}
+
+const buildFindConditions = (filter) => {
 
     const teams = filter.teams;
     const competition = filter.competition;
@@ -53,6 +95,19 @@ const buildConditions = (filter) => {
 
 }
 
+const buildFindQuery = (conditions) => {
+
+    const findQuery = Matches
+        .find(conditions)
+        .sort({
+            date: 1
+        });
+
+    return findQuery;
+}
+
 module.exports = {
-    find
+    find,
+    create,
+    update,
 }
