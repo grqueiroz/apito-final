@@ -12,7 +12,6 @@ async function find(filter) {
 function buildFindConditions(filter) {
 
     const names = filter.names;
-    const match = filter.match;
 
     let conditions = {};
 

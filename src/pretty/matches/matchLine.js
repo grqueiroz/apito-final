@@ -9,11 +9,11 @@ class MatchLine {
 
     buildMatchLines() {
         return this.matches.map( match => {
-            const { homeFlag, awayFlag } = colorsService.getMatchFlags(match);
+            const { homeFlag, awayFlag } = colorsService.getHomeAndAwayFlags(match);
 
             const matchLine = 
                 buildRound(match) +
-                buildHome(homeFlag, match) +
+                buildHome(match, homeFlag) +
                 buildVersus() +
                 buildAway(match, awayFlag) +
                 buildDate(match) +
@@ -28,20 +28,20 @@ function buildRound(match) {
     return `#${match.round} - `;
 }
 
-function buildHome(homeFlag, match) {
-    return `${homeFlag} ${match.home} ${match.homeScore || ''} `;
+function buildHome(match, homeFlag = '') {
+    return `${homeFlag} ${match.home} ${match.homeScore} `;
 }
 
 function buildVersus() {
     return `x `
 }
 
-function buildAway(match, awayFlag) {
-    return `${match.awayScore || ''} ${match.away} ${awayFlag} - `
+function buildAway(match, awayFlag = '') {
+    return `${match.awayScore} ${match.away} ${awayFlag} - `
 }
 
 function buildDate(match) {
-    return `${match.date.toLocaleDateString('pt-BR')} `;
+    return `${match.date.toLocaleString('pt-BR')} `;
 }
 
 function buildStadium(match) {
