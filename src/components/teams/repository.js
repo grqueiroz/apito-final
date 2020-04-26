@@ -16,7 +16,7 @@ function buildFindConditions(filter) {
     let conditions = {};
 
     if (names) {
-        conditions.name = { $in: names };
+        conditions.searchName = { $in: names };
     }
 
     return conditions;

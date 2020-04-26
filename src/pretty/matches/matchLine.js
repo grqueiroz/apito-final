@@ -1,5 +1,7 @@
 const colorsService = require('@pretty/colors/service');
 
+const EMPTY = '';
+
 class MatchLine {
     constructor(
         matches
@@ -8,7 +10,11 @@ class MatchLine {
     }
 
     buildMatchLines() {
-        return this.matches.map( match => {
+        const matchLines = this.matches.map( match => {
+            if (!match) {
+                return;
+            }
+
             const { homeFlag, awayFlag } = colorsService.getHomeAndAwayFlags(match);
 
             const matchLine = 
@@ -21,6 +27,8 @@ class MatchLine {
         
             return matchLine;
         });
+
+        return matchLines;
     }
 }
 
@@ -29,7 +37,7 @@ function buildRound(match) {
 }
 
 function buildHome(match, homeFlag = '') {
-    return `${homeFlag} ${match.home} ${match.homeScore} `;
+    return `${homeFlag} ${match.home} ${buildScore(match.homeScore)} `;
 }
 
 function buildVersus() {
@@ -37,7 +45,7 @@ function buildVersus() {
 }
 
 function buildAway(match, awayFlag = '') {
-    return `${match.awayScore} ${match.away} ${awayFlag} - `
+    return `${buildScore(match.awayScore)} ${match.away} ${awayFlag} - `
 }
 
 function buildDate(match) {
@@ -46,6 +54,13 @@ function buildDate(match) {
 
 function buildStadium(match) {
     return `@ ${match.stadium}\n`;
+}
+
+function buildScore(score) {
+    if (score == null) {
+        return '';
+    }
+    return score;
 }
 
 module.exports = {

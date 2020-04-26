@@ -42,6 +42,7 @@
     "@config": "src/config",
     "@middleware": "src/middleware",
     "@pretty": "src/pretty",
-    "@setup": "src/setup"
+    "@setup": "src/setup",
+    "@utils": "src/utils"
   }
 }
