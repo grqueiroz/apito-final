@@ -1,0 +1,36 @@
+const Teams = require('./model');
+
+async function find(filter) {
+
+    const conditions = buildFindConditions(filter);
+
+    const findQuery = buildFindQuery(conditions);
+    
+    return await findQuery.exec();
+}
+
+function buildFindConditions(filter) {
+
+    const names = filter.names;
+    const match = filter.match;
+
+    let conditions = {};
+
+    if (names) {
+        conditions.name = { $in: names };
+    }
+
+    return conditions;
+}
+
+function buildFindQuery(conditions) {
+
+    const findQuery = Teams
+        .find(conditions);
+
+    return findQuery;
+}
+
+module.exports = {
+    find,
+}
