@@ -7,7 +7,6 @@ async function find(filter) {
     const findQuery = buildFindQuery(conditions);
 
     return await findQuery.exec();
-
 }
 
 async function create(matches) {
@@ -63,7 +62,7 @@ function buildUpdateParameters(match) {
     };
 }
 
-const buildFindConditions = (filter) => {
+function buildFindConditions(filter) {
 
     const teams = filter.teams;
     const competition = filter.competition;
@@ -88,14 +87,13 @@ const buildFindConditions = (filter) => {
     }
 
     if (startingDate) {
-        conditions.date = { $gt: startingDate }
+        conditions.date = { $gt: startingDate };
     }
 
     return conditions;
-
 }
 
-const buildFindQuery = (conditions) => {
+function buildFindQuery(conditions) {
 
     const findQuery = Matches
         .find(conditions)
