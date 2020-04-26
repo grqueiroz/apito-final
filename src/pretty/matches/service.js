@@ -1,13 +1,21 @@
-const service = require('@components/matches/service');
+const matchesService = require('@components/matches/service');
+const { MatchLine } = require('@pretty/matches/matchLine');
 
-const findLatest = async (filter) => {
+async function getLatest(filter) {
     filter.isCompleted = true;
 
-    const matches = await service.find(filter);
+    const matches = await matchesService.find(filter);
+    const latestMatch = getLastestFromSet(matches);
 
-    return matches.sort((a, b) => b.date - a.date)[0];
+    const lineBuilder = new MatchLine(latestMatch);
+
+    return lineBuilder.buildMatchLines();
+}
+
+function getLastestFromSet(matches) {
+    return matches.sort((a, b) => b.date - a.date)[0] || {};
 }
 
 module.exports = {
-    findLatest,
+    getLatest,
 }

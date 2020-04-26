@@ -1,4 +1,5 @@
 const bodyParser = require('body-parser');
+
 const service = require('./service');
 
 module.exports = function(app) {
@@ -10,12 +11,11 @@ module.exports = function(app) {
         
         const filter = {
             teams: req.query.team,
-            competition: req.query.competition,
         };
 
-        const matches = await service.findLatest(filter);
+        const match = await service.getLatest(filter);
 
-        res.send(matches);
+        res.send(match);
 
     });
 
