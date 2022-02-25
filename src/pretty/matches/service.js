@@ -1,6 +1,7 @@
 const matchesService = require('@components/matches/service');
 const teamsService = require('@components/teams/service');
 const { MatchLine } = require('@pretty/matches/matchLine');
+const { now } = require('mongoose');
 
 async function getLatest(filter) {
     filter.isCompleted = true;
@@ -86,6 +87,7 @@ function getLastestFromSet(matches) {
 function getNextFromSet(matches) {
     return matches
         .filter(match => match.homeScore == null)
+        .filter(match => match.date > now())
         .sort((a, b) => a.date - b.date)[0];
 }
 
