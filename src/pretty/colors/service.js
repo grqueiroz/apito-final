@@ -28,6 +28,13 @@ function buildBulletFlag(flag) {
     `${chalk.keyword(getFlagColor(flag, 2))(BULLET)}`;
 }
 
+// function buildBulletFlag(flag) {
+//     // `<label style='color:${getFlagColor(flag, 0)}'>${BULLET}</label>`
+//     return`<label style='color:${getFlagColor(flag, 0)}'>${BULLET}</label>` +
+//     `<label style='color:${getFlagColor(flag, 1)}'>${BULLET}</label>` +
+//     `<label style='color:${getFlagColor(flag, 2)}'>${BULLET}</label>`;
+// }
+
 function getFlagColor(flag, index) {
     if (index < flag.length) {
         return flag[index];

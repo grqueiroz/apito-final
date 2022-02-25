@@ -42,6 +42,7 @@ async function getSummary(filter) {
 
     const matchLines = lineBuilder.buildMatchLines();
 
+    // let summary = '<!DOCTYPE html><html><body>';
     let summary = '';
 
     matchLines
