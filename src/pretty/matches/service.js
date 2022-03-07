@@ -46,8 +46,8 @@ async function getSummary(filter) {
     let summary = '';
 
     matchLines
-        .filter( line => line != null)
-        .map( line => summary += line);
+        .filter(line => line != null)
+        .map(line => summary += line);
 
     return summary;
 }
@@ -63,11 +63,11 @@ async function enrichTeams(match) {
 
         const teams = await teamsService.find(teamsFilter);
 
-        const home = teams.find( team => 
+        const home = teams.find(team =>
             team.searchName == match.home
         );
-        const away = teams.find( team =>
-            team.searchName == match.away  
+        const away = teams.find(team =>
+            team.searchName == match.away
         );
 
         match.home = home.name;
