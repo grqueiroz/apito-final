@@ -1,0 +1,3802 @@
+[
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "america-mg",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-04-26T22:15:00.000Z",
+        "round": 1,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "bragantino",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-04-26T22:15:00.000Z",
+        "round": 1,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "atletico-go",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-04-27T00:30:00.000Z",
+        "round": 1,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "oeste",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-04-27T00:30:00.000Z",
+        "round": 1,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "vitoria",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-04-27T14:00:00.000Z",
+        "round": 1,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-04-27T19:30:00.000Z",
+        "round": 1,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "cuiaba",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-04-27T19:30:00.000Z",
+        "round": 1,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "parana",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-04-28T00:00:00.000Z",
+        "round": 1,
+        "stadium": "Olímpico Pedro Ludovico"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "londrina",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-04-28T19:00:00.000Z",
+        "round": 1,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "ponte preta",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-04-29T23:00:00.000Z",
+        "round": 1,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "botafogo-sp",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-05-01T00:30:00.000Z",
+        "round": 2,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "guarani",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-05-01T19:00:00.000Z",
+        "round": 2,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-03T00:00:00.000Z",
+        "round": 2,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "brasil de pelotas",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-03T22:15:00.000Z",
+        "round": 2,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-04T00:30:00.000Z",
+        "round": 2,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-05-04T14:00:00.000Z",
+        "round": 2,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "vila nova",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-04T19:30:00.000Z",
+        "round": 2,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "crb",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-04T22:00:00.000Z",
+        "round": 2,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "operario-pr",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-04T22:00:00.000Z",
+        "round": 2,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-06T23:00:00.000Z",
+        "round": 2,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "botafogo-sp",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-05-09T22:15:00.000Z",
+        "round": 3,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "londrina",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-10T00:30:00.000Z",
+        "round": 3,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "atletico-go",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-05-10T22:15:00.000Z",
+        "round": 3,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "ponte preta",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-11T00:30:00.000Z",
+        "round": 3,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-11T14:00:00.000Z",
+        "round": 3,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-11T19:30:00.000Z",
+        "round": 3,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "oeste",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-11T22:00:00.000Z",
+        "round": 3,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "crb",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-05-11T22:00:00.000Z",
+        "round": 3,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "parana",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-11T22:00:00.000Z",
+        "round": 3,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "vitoria",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-05-13T23:00:00.000Z",
+        "round": 3,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "cuiaba",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-14T22:15:00.000Z",
+        "round": 4,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "brasil de pelotas",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-15T00:30:00.000Z",
+        "round": 4,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "criciuma",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-05-17T22:15:00.000Z",
+        "round": 4,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "operario-pr",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-18T00:30:00.000Z",
+        "round": 4,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "bragantino",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-18T14:00:00.000Z",
+        "round": 4,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "guarani",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-18T19:30:00.000Z",
+        "round": 4,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "sao bento",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-05-18T19:30:00.000Z",
+        "round": 4,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "vila nova",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-05-18T22:00:00.000Z",
+        "round": 4,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-05-19T19:00:00.000Z",
+        "round": 4,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-20T23:00:00.000Z",
+        "round": 4,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "guarani",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-21T22:15:00.000Z",
+        "round": 5,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "figueirense",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-05-22T00:30:00.000Z",
+        "round": 5,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "vila nova",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-24T22:15:00.000Z",
+        "round": 5,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "londrina",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-05-25T00:30:00.000Z",
+        "round": 5,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "cuiaba",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-25T14:00:00.000Z",
+        "round": 5,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "parana",
+        "homeScore": "4",
+        "awayScore": "2",
+        "date": "2019-05-25T19:30:00.000Z",
+        "round": 5,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "oeste",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-25T19:30:00.000Z",
+        "round": 5,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "botafogo-sp",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-05-25T22:00:00.000Z",
+        "round": 5,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "america-mg",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-25T22:00:00.000Z",
+        "round": 5,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-26T19:00:00.000Z",
+        "round": 5,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "sport",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-28T22:15:00.000Z",
+        "round": 6,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "brasil de pelotas",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-05-29T00:30:00.000Z",
+        "round": 6,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "atletico-go",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-31T22:15:00.000Z",
+        "round": 6,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "crb",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-05-31T23:30:00.000Z",
+        "round": 6,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "bragantino",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-06-01T00:30:00.000Z",
+        "round": 6,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "oeste",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-06-01T14:00:00.000Z",
+        "round": 6,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-01T19:30:00.000Z",
+        "round": 6,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "londrina",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-06-01T19:30:00.000Z",
+        "round": 6,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "ponte preta",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-06-01T22:00:00.000Z",
+        "round": 6,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-06-03T23:00:00.000Z",
+        "round": 6,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-06-04T22:00:00.000Z",
+        "round": 7,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "guarani",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-06T22:15:00.000Z",
+        "round": 7,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "cuiaba",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-07T22:15:00.000Z",
+        "round": 7,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "botafogo-sp",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-06-08T00:30:00.000Z",
+        "round": 7,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-06-08T14:00:00.000Z",
+        "round": 7,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "vila nova",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-06-08T19:30:00.000Z",
+        "round": 7,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "operario-pr",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-08T19:30:00.000Z",
+        "round": 7,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "parana",
+        "homeScore": "2",
+        "awayScore": "3",
+        "date": "2019-06-08T21:00:00.000Z",
+        "round": 7,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "vitoria",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-06-08T23:30:00.000Z",
+        "round": 7,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "america-mg",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-06-08T23:30:00.000Z",
+        "round": 7,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "ponte preta",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-06-10T23:00:00.000Z",
+        "round": 8,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "sao bento",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-11T22:15:00.000Z",
+        "round": 8,
+        "stadium": "Olímpico Pedro Ludovico"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "botafogo-sp",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-06-11T22:15:00.000Z",
+        "round": 8,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "criciuma",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-06-11T22:15:00.000Z",
+        "round": 8,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "america-mg",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-06-11T23:30:00.000Z",
+        "round": 8,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "vitoria",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-06-11T23:30:00.000Z",
+        "round": 8,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "atletico-go",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-06-11T23:30:00.000Z",
+        "round": 8,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "coritiba",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-06-12T00:30:00.000Z",
+        "round": 8,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "operario-pr",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-12T00:30:00.000Z",
+        "round": 8,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "crb",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-12T00:30:00.000Z",
+        "round": 8,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "sport",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-07-08T23:00:00.000Z",
+        "round": 9,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "cuiaba",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-09T22:15:00.000Z",
+        "round": 9,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "coritiba",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-10T00:30:00.000Z",
+        "round": 9,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "guarani",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-12T22:15:00.000Z",
+        "round": 9,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "oeste",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-07-13T00:30:00.000Z",
+        "round": 9,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "4",
+        "date": "2019-07-13T14:00:00.000Z",
+        "round": 9,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "vila nova",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-07-13T19:30:00.000Z",
+        "round": 9,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "brasil de pelotas",
+        "homeScore": "2",
+        "awayScore": "3",
+        "date": "2019-07-13T21:00:00.000Z",
+        "round": 9,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "bragantino",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-13T22:00:00.000Z",
+        "round": 9,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "londrina",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-07-13T22:00:00.000Z",
+        "round": 9,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-15T23:00:00.000Z",
+        "round": 10,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-16T22:15:00.000Z",
+        "round": 10,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "atletico-go",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-17T00:30:00.000Z",
+        "round": 10,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "parana",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-19T00:30:00.000Z",
+        "round": 10,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "londrina",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-19T22:15:00.000Z",
+        "round": 10,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "criciuma",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-07-20T00:30:00.000Z",
+        "round": 10,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "bragantino",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-20T14:00:00.000Z",
+        "round": 10,
+        "stadium": "Novelli Jr."
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "america-mg",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-20T19:30:00.000Z",
+        "round": 10,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "guarani",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-20T22:00:00.000Z",
+        "round": 10,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "crb",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-20T22:00:00.000Z",
+        "round": 10,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "brasil de pelotas",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-22T23:00:00.000Z",
+        "round": 11,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "cuiaba",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-23T22:15:00.000Z",
+        "round": 11,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "operario-pr",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-23T22:15:00.000Z",
+        "round": 11,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "vila nova",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-07-23T22:15:00.000Z",
+        "round": 11,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "parana",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-23T22:15:00.000Z",
+        "round": 11,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "ponte preta",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-23T23:30:00.000Z",
+        "round": 11,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "botafogo-sp",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-07-23T23:30:00.000Z",
+        "round": 11,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "vitoria",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-07-24T00:30:00.000Z",
+        "round": 11,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "oeste",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-24T00:30:00.000Z",
+        "round": 11,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "criciuma",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-07-24T00:30:00.000Z",
+        "round": 11,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-26T22:15:00.000Z",
+        "round": 12,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "atletico-go",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-26T22:15:00.000Z",
+        "round": 12,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-26T23:30:00.000Z",
+        "round": 12,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "crb",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-07-26T23:30:00.000Z",
+        "round": 12,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-27T00:30:00.000Z",
+        "round": 12,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "figueirense",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-27T14:00:00.000Z",
+        "round": 12,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "londrina",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-07-27T19:30:00.000Z",
+        "round": 12,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "ponte preta",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-27T19:30:00.000Z",
+        "round": 12,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "bragantino",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-27T22:00:00.000Z",
+        "round": 12,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "brasil de pelotas",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-27T22:00:00.000Z",
+        "round": 12,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "botafogo-sp",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-07-29T23:00:00.000Z",
+        "round": 13,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "guarani",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-29T23:00:00.000Z",
+        "round": 13,
+        "stadium": "Arena Pernambuco"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "parana",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-07-30T22:15:00.000Z",
+        "round": 13,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-30T22:15:00.000Z",
+        "round": 13,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "vila nova",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-07-30T22:15:00.000Z",
+        "round": 13,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-30T23:30:00.000Z",
+        "round": 13,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-07-30T23:30:00.000Z",
+        "round": 13,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "operario-pr",
+        "homeScore": "4",
+        "awayScore": "2",
+        "date": "2019-07-30T23:30:00.000Z",
+        "round": 13,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "oeste",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-07-30T23:30:00.000Z",
+        "round": 13,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "cuiaba",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-07-31T00:30:00.000Z",
+        "round": 13,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-02T00:30:00.000Z",
+        "round": 14,
+        "stadium": "Arena Pernambuco"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "atletico-go",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-02T22:15:00.000Z",
+        "round": 14,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "oeste",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-08-02T23:30:00.000Z",
+        "round": 14,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "bragantino",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-03T00:30:00.000Z",
+        "round": 14,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-03T14:00:00.000Z",
+        "round": 14,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "ponte preta",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-03T19:30:00.000Z",
+        "round": 14,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "operario-pr",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-08-03T19:30:00.000Z",
+        "round": 14,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-03T20:00:00.000Z",
+        "round": 14,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "cuiaba",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-03T22:00:00.000Z",
+        "round": 14,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-03T22:15:00.000Z",
+        "round": 14,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "crb",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-06T22:15:00.000Z",
+        "round": 15,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "londrina",
+        "homeScore": "4",
+        "awayScore": "3",
+        "date": "2019-08-07T00:30:00.000Z",
+        "round": 15,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "brasil de pelotas",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-09T00:30:00.000Z",
+        "round": 15,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "vila nova",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-09T22:15:00.000Z",
+        "round": 15,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "botafogo-sp",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-10T00:30:00.000Z",
+        "round": 15,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "figueirense",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-10T19:30:00.000Z",
+        "round": 15,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "parana",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-10T22:00:00.000Z",
+        "round": 15,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "sao bento",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-08-10T22:00:00.000Z",
+        "round": 15,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "guarani",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-11T14:00:00.000Z",
+        "round": 15,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-11T19:00:00.000Z",
+        "round": 15,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "operario-pr",
+        "homeScore": "4",
+        "awayScore": "0",
+        "date": "2019-08-12T23:00:00.000Z",
+        "round": 16,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "oeste",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-13T22:15:00.000Z",
+        "round": 16,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "brasil de pelotas",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-14T00:30:00.000Z",
+        "round": 16,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "ponte preta",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-16T00:30:00.000Z",
+        "round": 16,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-16T22:15:00.000Z",
+        "round": 16,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "vila nova",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-08-17T00:30:00.000Z",
+        "round": 16,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "parana",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-17T14:00:00.000Z",
+        "round": 16,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "botafogo-sp",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-08-17T19:30:00.000Z",
+        "round": 16,
+        "stadium": "Arena Pernambuco"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "cuiaba",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-17T22:00:00.000Z",
+        "round": 16,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "vitoria",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-18T19:00:00.000Z",
+        "round": 16,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "coritiba",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-08-19T23:00:00.000Z",
+        "round": 17,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "bragantino",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-08-19T23:00:00.000Z",
+        "round": 17,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "londrina",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-20T22:15:00.000Z",
+        "round": 17,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "guarani",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-20T22:15:00.000Z",
+        "round": 17,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-20T22:15:00.000Z",
+        "round": 17,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "atletico-go",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-20T23:30:00.000Z",
+        "round": 17,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-08-21T00:30:00.000Z",
+        "round": 17,
+        "stadium": "Olímpico Pedro Ludovico"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "figueirense",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-08-21T00:30:00.000Z",
+        "round": 17,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-21T22:15:00.000Z",
+        "round": 17,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "crb",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-22T00:30:00.000Z",
+        "round": 17,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-23T00:30:00.000Z",
+        "round": 18,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "brasil de pelotas",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-23T22:15:00.000Z",
+        "round": 18,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "botafogo-sp",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-24T00:30:00.000Z",
+        "round": 18,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "criciuma",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-24T14:00:00.000Z",
+        "round": 18,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "vila nova",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-24T19:30:00.000Z",
+        "round": 18,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "4",
+        "date": "2019-08-24T19:30:00.000Z",
+        "round": 18,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "operario-pr",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-24T19:30:00.000Z",
+        "round": 18,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "sport",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-08-24T22:00:00.000Z",
+        "round": 18,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "crb",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-08-24T22:00:00.000Z",
+        "round": 18,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "guarani",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-08-25T14:00:00.000Z",
+        "round": 18,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "bragantino",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2019-08-27T19:30:00.000Z",
+        "round": 19,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "parana",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-27T22:15:00.000Z",
+        "round": 19,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "cuiaba",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-27T22:15:00.000Z",
+        "round": 19,
+        "stadium": "Olímpico Pedro Ludovico"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-27T22:15:00.000Z",
+        "round": 19,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "ponte preta",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-27T22:15:00.000Z",
+        "round": 19,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "figueirense",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-27T23:30:00.000Z",
+        "round": 19,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "oeste",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-08-27T23:30:00.000Z",
+        "round": 19,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "atletico-go",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-28T00:30:00.000Z",
+        "round": 19,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "londrina",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-28T22:15:00.000Z",
+        "round": 19,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-08-28T22:15:00.000Z",
+        "round": 19,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "vila nova",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-30T22:15:00.000Z",
+        "round": 20,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "botafogo-sp",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-31T00:30:00.000Z",
+        "round": 20,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "criciuma",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-31T00:30:00.000Z",
+        "round": 20,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-31T14:00:00.000Z",
+        "round": 20,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-31T19:30:00.000Z",
+        "round": 20,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "sao bento",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-31T19:30:00.000Z",
+        "round": 20,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "crb",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-31T19:30:00.000Z",
+        "round": 20,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "guarani",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-31T19:30:00.000Z",
+        "round": 20,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "brasil de pelotas",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-31T22:00:00.000Z",
+        "round": 20,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "operario-pr",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-31T22:00:00.000Z",
+        "round": 20,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "vitoria",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-09-03T22:15:00.000Z",
+        "round": 21,
+        "stadium": "Olímpico Pedro Ludovico"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "londrina",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-03T22:15:00.000Z",
+        "round": 21,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "ponte preta",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-09-04T00:30:00.000Z",
+        "round": 21,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "parana",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-09-05T22:15:00.000Z",
+        "round": 21,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-09-06T21:45:00.000Z",
+        "round": 21,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-09-07T14:00:00.000Z",
+        "round": 21,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "oeste",
+        "homeScore": "2",
+        "awayScore": "3",
+        "date": "2019-09-07T19:30:00.000Z",
+        "round": 21,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "cuiaba",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-07T19:30:00.000Z",
+        "round": 21,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "bragantino",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-07T22:00:00.000Z",
+        "round": 21,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "atletico-go",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-09-08T14:00:00.000Z",
+        "round": 21,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "brasil de pelotas",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-09-10T21:45:00.000Z",
+        "round": 22,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "criciuma",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-11T00:00:00.000Z",
+        "round": 22,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "vila nova",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-09-13T00:30:00.000Z",
+        "round": 22,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "sao bento",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-13T22:15:00.000Z",
+        "round": 22,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "operario-pr",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-09-13T23:30:00.000Z",
+        "round": 22,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "bragantino",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-14T00:30:00.000Z",
+        "round": 22,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "coritiba",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-14T14:00:00.000Z",
+        "round": 22,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "guarani",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-09-14T19:30:00.000Z",
+        "round": 22,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "cuiaba",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-09-14T22:00:00.000Z",
+        "round": 22,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-09-15T19:00:00.000Z",
+        "round": 22,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "ponte preta",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-16T23:00:00.000Z",
+        "round": 23,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "botafogo-sp",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-09-17T22:15:00.000Z",
+        "round": 23,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "vitoria",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-18T00:30:00.000Z",
+        "round": 23,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "figueirense",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-09-20T00:30:00.000Z",
+        "round": 23,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "atletico-go",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-09-20T22:15:00.000Z",
+        "round": 23,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-09-21T00:30:00.000Z",
+        "round": 23,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "parana",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-21T14:00:00.000Z",
+        "round": 23,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "londrina",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-09-21T19:30:00.000Z",
+        "round": 23,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "crb",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-09-21T22:00:00.000Z",
+        "round": 23,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "oeste",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-21T22:00:00.000Z",
+        "round": 23,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-24T22:15:00.000Z",
+        "round": 24,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "operario-pr",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-24T22:15:00.000Z",
+        "round": 24,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-09-24T22:15:00.000Z",
+        "round": 24,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-24T23:30:00.000Z",
+        "round": 24,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "crb",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-09-24T23:30:00.000Z",
+        "round": 24,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "brasil de pelotas",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-24T23:30:00.000Z",
+        "round": 24,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "bragantino",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2019-09-25T00:30:00.000Z",
+        "round": 24,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "atletico-go",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-09-25T00:30:00.000Z",
+        "round": 24,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "ponte preta",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-25T22:15:00.000Z",
+        "round": 24,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "coritiba",
+        "homeScore": "3",
+        "awayScore": "3",
+        "date": "2019-10-30T01:30:00.000Z",
+        "round": 24,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "vila nova",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-09-27T22:15:00.000Z",
+        "round": 25,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "guarani",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-09-27T23:30:00.000Z",
+        "round": 25,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "figueirense",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-28T00:30:00.000Z",
+        "round": 25,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "botafogo-sp",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-28T14:00:00.000Z",
+        "round": 25,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "cuiaba",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-09-28T19:30:00.000Z",
+        "round": 25,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "america-mg",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-28T19:30:00.000Z",
+        "round": 25,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "parana",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-28T22:00:00.000Z",
+        "round": 25,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "operario-pr",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-09-28T22:00:00.000Z",
+        "round": 25,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "sao bento",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-29T00:00:00.000Z",
+        "round": 25,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "vitoria",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-29T19:00:00.000Z",
+        "round": 25,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "atletico-go",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-30T23:00:00.000Z",
+        "round": 26,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-01T22:15:00.000Z",
+        "round": 26,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "crb",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-03T22:15:00.000Z",
+        "round": 26,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "sport",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-04T00:30:00.000Z",
+        "round": 26,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "oeste",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-04T22:15:00.000Z",
+        "round": 26,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "bragantino",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2019-10-05T00:30:00.000Z",
+        "round": 26,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "ponte preta",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-10-05T14:00:00.000Z",
+        "round": 26,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "coritiba",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-05T19:30:00.000Z",
+        "round": 26,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "brasil de pelotas",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-05T22:00:00.000Z",
+        "round": 26,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "londrina",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-05T22:00:00.000Z",
+        "round": 26,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "vila nova",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-10-07T23:00:00.000Z",
+        "round": 27,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-07T23:00:00.000Z",
+        "round": 27,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-08T22:15:00.000Z",
+        "round": 27,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "guarani",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-08T22:15:00.000Z",
+        "round": 27,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "parana",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-08T22:15:00.000Z",
+        "round": 27,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "cuiaba",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-08T23:30:00.000Z",
+        "round": 27,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "brasil de pelotas",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-08T23:30:00.000Z",
+        "round": 27,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "oeste",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-10-08T23:30:00.000Z",
+        "round": 27,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "londrina",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-10-09T00:30:00.000Z",
+        "round": 27,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "bragantino",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-09T00:30:00.000Z",
+        "round": 27,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "atletico-go",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-11T22:15:00.000Z",
+        "round": 28,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "botafogo-sp",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-11T22:15:00.000Z",
+        "round": 28,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-11T22:15:00.000Z",
+        "round": 28,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "crb",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-12T00:30:00.000Z",
+        "round": 28,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "ponte preta",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-12T00:30:00.000Z",
+        "round": 28,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-10-12T00:30:00.000Z",
+        "round": 28,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "parana",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-12T19:30:00.000Z",
+        "round": 28,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-12T19:30:00.000Z",
+        "round": 28,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "operario-pr",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-12T19:30:00.000Z",
+        "round": 28,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "america-mg",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-12T22:00:00.000Z",
+        "round": 28,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "botafogo-sp",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-10-14T23:00:00.000Z",
+        "round": 29,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "ponte preta",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-14T23:00:00.000Z",
+        "round": 29,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "cuiaba",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-14T23:00:00.000Z",
+        "round": 29,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "brasil de pelotas",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-15T22:15:00.000Z",
+        "round": 29,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-15T22:15:00.000Z",
+        "round": 29,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-15T22:15:00.000Z",
+        "round": 29,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "vila nova",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-15T23:30:00.000Z",
+        "round": 29,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "operario-pr",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-15T23:30:00.000Z",
+        "round": 29,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "oeste",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-16T00:30:00.000Z",
+        "round": 29,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-16T00:30:00.000Z",
+        "round": 29,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "atletico-go",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-17T22:15:00.000Z",
+        "round": 30,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "guarani",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-18T00:30:00.000Z",
+        "round": 30,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "crb",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-18T22:15:00.000Z",
+        "round": 30,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "londrina",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-19T00:30:00.000Z",
+        "round": 30,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "bragantino",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-19T19:30:00.000Z",
+        "round": 30,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-19T19:30:00.000Z",
+        "round": 30,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "coritiba",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-19T19:30:00.000Z",
+        "round": 30,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-19T22:00:00.000Z",
+        "round": 30,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-19T22:00:00.000Z",
+        "round": 30,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-20T19:00:00.000Z",
+        "round": 30,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "parana",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-23T22:15:00.000Z",
+        "round": 31,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "botafogo-sp",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-24T22:15:00.000Z",
+        "round": 31,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "operario-pr",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-25T00:30:00.000Z",
+        "round": 31,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "america-mg",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-25T22:15:00.000Z",
+        "round": 31,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "oeste",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-10-25T22:15:00.000Z",
+        "round": 31,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "vila nova",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-10-26T00:30:00.000Z",
+        "round": 31,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "guarani",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-26T19:30:00.000Z",
+        "round": 31,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "criciuma",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-26T19:30:00.000Z",
+        "round": 31,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "cuiaba",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-26T19:30:00.000Z",
+        "round": 31,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-27T19:00:00.000Z",
+        "round": 31,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "londrina",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-28T23:00:00.000Z",
+        "round": 32,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "brasil de pelotas",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-10-29T22:15:00.000Z",
+        "round": 32,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-31T22:15:00.000Z",
+        "round": 32,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "coritiba",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-01T22:15:00.000Z",
+        "round": 32,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "atletico-go",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-01T23:30:00.000Z",
+        "round": 32,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "bragantino",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-02T01:30:00.000Z",
+        "round": 32,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "crb",
+        "homeScore": "3",
+        "awayScore": "3",
+        "date": "2019-11-02T19:30:00.000Z",
+        "round": 32,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "figueirense",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-11-02T19:30:00.000Z",
+        "round": 32,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "sao bento",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-02T22:00:00.000Z",
+        "round": 32,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "ponte preta",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-02T22:00:00.000Z",
+        "round": 32,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-04T23:00:00.000Z",
+        "round": 33,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "botafogo-sp",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-11-05T22:15:00.000Z",
+        "round": 33,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "londrina",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-11-05T22:15:00.000Z",
+        "round": 33,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-05T23:30:00.000Z",
+        "round": 33,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "vila nova",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-05T23:30:00.000Z",
+        "round": 33,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "parana",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-11-05T23:30:00.000Z",
+        "round": 33,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "brasil de pelotas",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-11-05T23:30:00.000Z",
+        "round": 33,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "sao bento",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-06T00:30:00.000Z",
+        "round": 33,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "guarani",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-11-06T00:30:00.000Z",
+        "round": 33,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "crb",
+        "homeScore": "5",
+        "awayScore": "1",
+        "date": "2019-11-06T00:30:00.000Z",
+        "round": 33,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "bragantino",
+        "homeScore": "2",
+        "awayScore": "3",
+        "date": "2019-11-08T22:15:00.000Z",
+        "round": 34,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "vitoria",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-08T22:15:00.000Z",
+        "round": 34,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "operario-pr",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-08T23:30:00.000Z",
+        "round": 34,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-08T23:30:00.000Z",
+        "round": 34,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "cuiaba",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-09T00:30:00.000Z",
+        "round": 34,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-09T00:30:00.000Z",
+        "round": 34,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "ponte preta",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-09T19:30:00.000Z",
+        "round": 34,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-09T19:30:00.000Z",
+        "round": 34,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "oeste",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-11-09T22:00:00.000Z",
+        "round": 34,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "atletico-go",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-11-09T22:00:00.000Z",
+        "round": 34,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-11-12T01:00:00.000Z",
+        "round": 35,
+        "stadium": "Arena Pantanal"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "atletico-go",
+        "homeScore": "0",
+        "awayScore": "4",
+        "date": "2019-11-12T22:15:00.000Z",
+        "round": 35,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "coritiba",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-11-12T22:15:00.000Z",
+        "round": 35,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "crb",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-11-12T22:15:00.000Z",
+        "round": 35,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "figueirense",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-11-12T23:30:00.000Z",
+        "round": 35,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "londrina",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-12T23:30:00.000Z",
+        "round": 35,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "sao bento",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-11-13T00:30:00.000Z",
+        "round": 35,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "bragantino",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-11-13T00:30:00.000Z",
+        "round": 35,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "guarani",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-13T22:15:00.000Z",
+        "round": 35,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-11-14T00:30:00.000Z",
+        "round": 35,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "vitoria",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-11-15T20:00:00.000Z",
+        "round": 36,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-15T22:15:00.000Z",
+        "round": 36,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "parana",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-16T00:30:00.000Z",
+        "round": 36,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "operario-pr",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-16T19:30:00.000Z",
+        "round": 36,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "oeste",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-16T19:30:00.000Z",
+        "round": 36,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "ponte preta",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-16T19:30:00.000Z",
+        "round": 36,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "botafogo-sp",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-16T22:00:00.000Z",
+        "round": 36,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "brasil de pelotas",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-11-17T19:00:00.000Z",
+        "round": 36,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "vila nova",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-17T19:00:00.000Z",
+        "round": 36,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "cuiaba",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-17T21:30:00.000Z",
+        "round": 36,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "criciuma",
+        "away": "parana",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-19T22:15:00.000Z",
+        "round": 37,
+        "stadium": "Heriberto Hulse"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "operario-pr",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-20T00:30:00.000Z",
+        "round": 37,
+        "stadium": "Germano Krüger"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vila nova",
+        "away": "oeste",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-20T22:15:00.000Z",
+        "round": 37,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sport",
+        "away": "ponte preta",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-11-21T00:30:00.000Z",
+        "round": 37,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "sao bento",
+        "away": "londrina",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-11-21T22:15:00.000Z",
+        "round": 37,
+        "stadium": "Walter Ribeiro"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "brasil de pelotas",
+        "away": "atletico-go",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-11-22T00:30:00.000Z",
+        "round": 37,
+        "stadium": "Bento Freitas"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "crb",
+        "away": "figueirense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-22T22:15:00.000Z",
+        "round": 37,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "guarani",
+        "away": "america-mg",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-23T00:30:00.000Z",
+        "round": 37,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "botafogo-sp",
+        "away": "cuiaba",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-23T20:00:00.000Z",
+        "round": 37,
+        "stadium": "Santa Cruz"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "coritiba",
+        "away": "bragantino",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-24T19:00:00.000Z",
+        "round": 37,
+        "stadium": "Couto Pereira"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "ponte preta",
+        "away": "brasil de pelotas",
+        "homeScore": "4",
+        "awayScore": "0",
+        "date": "2019-11-26T22:00:00.000Z",
+        "round": 38,
+        "stadium": "Moisés Lucarelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "parana",
+        "away": "botafogo-sp",
+        "homeScore": "3",
+        "awayScore": "3",
+        "date": "2019-11-29T22:15:00.000Z",
+        "round": 38,
+        "stadium": "Durival de Britto"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "oeste",
+        "away": "criciuma",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-30T00:30:00.000Z",
+        "round": 38,
+        "stadium": "Arena Barueri"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "bragantino",
+        "away": "crb",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-30T19:30:00.000Z",
+        "round": 38,
+        "stadium": "Nabi Abi Chedid"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "atletico-go",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-30T19:30:00.000Z",
+        "round": 38,
+        "stadium": "Antonio Accioly"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "londrina",
+        "away": "guarani",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-30T19:30:00.000Z",
+        "round": 38,
+        "stadium": "Estádio do Café"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "figueirense",
+        "away": "operario-pr",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-30T19:30:00.000Z",
+        "round": 38,
+        "stadium": "Orlando Scarpelli"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "america-mg",
+        "away": "sao bento",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-30T19:30:00.000Z",
+        "round": 38,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "vitoria",
+        "away": "coritiba",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-30T19:30:00.000Z",
+        "round": 38,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CBRB19",
+        "home": "cuiaba",
+        "away": "vila nova",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-30T19:30:00.000Z",
+        "round": 38,
+        "stadium": "Arena Pantanal"
+    }
+]

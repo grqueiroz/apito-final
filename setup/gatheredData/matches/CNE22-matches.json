@@ -1,0 +1,642 @@
+[
+    {
+        "competition": "CNE22",
+        "home": "crb",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2022-01-22T20:45:00.000Z",
+        "round": 1,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE22",
+        "home": "altos",
+        "away": "atletico de alagoinhas",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-01-23T19:00:00.000Z",
+        "round": 1,
+        "stadium": "Albertão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sousa",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2022-01-23T21:00:00.000Z",
+        "round": 1,
+        "stadium": "Marizão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "nautico",
+        "away": "campinense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2022-01-25T23:00:00.000Z",
+        "round": 1,
+        "stadium": "Aflitos"
+    },
+    {
+        "competition": "CNE22",
+        "home": "floresta",
+        "away": "fortaleza",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2022-02-03T00:30:00.000Z",
+        "round": 1,
+        "stadium": "Presidente Vargas"
+    },
+    {
+        "competition": "CNE22",
+        "home": "ceara",
+        "away": "globo",
+        "homeScore": "5",
+        "awayScore": "0",
+        "date": "2022-02-09T22:30:00.000Z",
+        "round": 1,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "bahia",
+        "away": "sampaio correa",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2022-02-25T00:30:00.000Z",
+        "round": 1,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CNE22",
+        "home": "botafogo-pb",
+        "away": "sergipe",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2022-03-02T22:30:00.000Z",
+        "round": 1,
+        "stadium": "Almeidão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "campinense",
+        "away": "bahia",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2022-01-29T19:00:00.000Z",
+        "round": 2,
+        "stadium": "Amigão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sport",
+        "away": "nautico",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2022-01-29T20:45:00.000Z",
+        "round": 2,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "globo",
+        "away": "floresta",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-01-29T23:00:00.000Z",
+        "round": 2,
+        "stadium": "Barrettão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "csa",
+        "away": "botafogo-pb",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2022-01-30T19:00:00.000Z",
+        "round": 2,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE22",
+        "home": "fortaleza",
+        "away": "sousa",
+        "homeScore": "5",
+        "awayScore": "0",
+        "date": "2022-01-30T21:00:00.000Z",
+        "round": 2,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sampaio correa",
+        "away": "altos",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2022-01-30T21:00:00.000Z",
+        "round": 2,
+        "stadium": "Castelão-MA"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sergipe",
+        "away": "ceara",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2022-02-01T00:30:00.000Z",
+        "round": 2,
+        "stadium": "Lourival Baptista"
+    },
+    {
+        "competition": "CNE22",
+        "home": "atletico de alagoinhas",
+        "away": "crb",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2022-03-10T23:00:00.000Z",
+        "round": 2,
+        "stadium": "Estádio Municipal Antônio Carneiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "atletico de alagoinhas",
+        "away": "bahia",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2022-02-05T20:45:00.000Z",
+        "round": 3,
+        "stadium": "Estádio Municipal Antônio Carneiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "fortaleza",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-02-05T20:45:00.000Z",
+        "round": 3,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sampaio correa",
+        "away": "nautico",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2022-02-05T23:00:00.000Z",
+        "round": 3,
+        "stadium": "Castelão-MA"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sergipe",
+        "away": "altos",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2022-02-06T19:00:00.000Z",
+        "round": 3,
+        "stadium": "Lourival Baptista"
+    },
+    {
+        "competition": "CNE22",
+        "home": "globo",
+        "away": "botafogo-pb",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-02-06T19:00:00.000Z",
+        "round": 3,
+        "stadium": "Barrettão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sport",
+        "away": "sousa",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2022-02-08T22:30:00.000Z",
+        "round": 3,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "csa",
+        "away": "floresta",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2022-02-09T00:30:00.000Z",
+        "round": 3,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE22",
+        "home": "campinense",
+        "away": "crb",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-02-09T22:30:00.000Z",
+        "round": 3,
+        "stadium": "Amigão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "botafogo-pb",
+        "away": "atletico de alagoinhas",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2022-02-12T19:00:00.000Z",
+        "round": 4,
+        "stadium": "Almeidão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "nautico",
+        "away": "fortaleza",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2022-02-12T20:45:00.000Z",
+        "round": 4,
+        "stadium": "Aflitos"
+    },
+    {
+        "competition": "CNE22",
+        "home": "bahia",
+        "away": "globo",
+        "homeScore": "5",
+        "awayScore": "0",
+        "date": "2022-02-12T20:45:00.000Z",
+        "round": 4,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CNE22",
+        "home": "ceara",
+        "away": "sampaio correa",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-02-12T22:45:00.000Z",
+        "round": 4,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "floresta",
+        "away": "campinense",
+        "homeScore": "4",
+        "awayScore": "3",
+        "date": "2022-02-13T18:00:00.000Z",
+        "round": 4,
+        "stadium": "Domingão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sousa",
+        "away": "sergipe",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2022-02-13T19:00:00.000Z",
+        "round": 4,
+        "stadium": "Marizão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "crb",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-02-13T21:30:00.000Z",
+        "round": 4,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE22",
+        "home": "altos",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2022-02-27T21:00:00.000Z",
+        "round": 4,
+        "stadium": "Lindolfo Monteiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "botafogo-pb",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-02-15T22:30:00.000Z",
+        "round": 5,
+        "stadium": "Almeidão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "ceara",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2022-02-16T00:30:00.000Z",
+        "round": 5,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "nautico",
+        "away": "atletico de alagoinhas",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2022-02-16T00:30:00.000Z",
+        "round": 5,
+        "stadium": "Aflitos"
+    },
+    {
+        "competition": "CNE22",
+        "home": "bahia",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-02-16T22:30:00.000Z",
+        "round": 5,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sousa",
+        "away": "sampaio correa",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2022-02-16T22:30:00.000Z",
+        "round": 5,
+        "stadium": "Marizão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "altos",
+        "away": "campinense",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2022-02-17T00:30:00.000Z",
+        "round": 5,
+        "stadium": "Lindolfo Monteiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "floresta",
+        "away": "sergipe",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2022-02-17T18:00:00.000Z",
+        "round": 5,
+        "stadium": "Domingão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "crb",
+        "away": "globo",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2022-02-17T22:30:00.000Z",
+        "round": 5,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE22",
+        "home": "atletico de alagoinhas",
+        "away": "ceara",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2022-02-19T19:00:00.000Z",
+        "round": 6,
+        "stadium": "Estádio Municipal Antônio Carneiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "fortaleza",
+        "away": "bahia",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2022-02-19T20:45:00.000Z",
+        "round": 6,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "campinense",
+        "away": "sousa",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2022-02-19T23:00:00.000Z",
+        "round": 6,
+        "stadium": "Amigão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "globo",
+        "away": "altos",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2022-02-20T19:00:00.000Z",
+        "round": 6,
+        "stadium": "Barrettão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "csa",
+        "away": "nautico",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2022-02-20T19:00:00.000Z",
+        "round": 6,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sergipe",
+        "away": "crb",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2022-02-20T21:30:00.000Z",
+        "round": 6,
+        "stadium": "Lourival Baptista"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sampaio correa",
+        "away": "floresta",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2022-02-20T21:30:00.000Z",
+        "round": 6,
+        "stadium": "Castelão-MA"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sport",
+        "away": "botafogo-pb",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2022-02-25T00:30:00.000Z",
+        "round": 6,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "crb",
+        "away": "sampaio correa",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2022-03-05T19:00:00.000Z",
+        "round": 7,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE22",
+        "home": "bahia",
+        "away": "sport",
+        "homeScore": "2",
+        "awayScore": "3",
+        "date": "2022-03-05T20:45:00.000Z",
+        "round": 7,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CNE22",
+        "home": "altos",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-03-05T20:45:00.000Z",
+        "round": 7,
+        "stadium": "Lindolfo Monteiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "ceara",
+        "away": "csa",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2022-03-05T22:45:00.000Z",
+        "round": 7,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "floresta",
+        "away": "atletico de alagoinhas",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2022-03-06T18:00:00.000Z",
+        "round": 7,
+        "stadium": "Domingão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "botafogo-pb",
+        "away": "campinense",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2022-03-06T19:00:00.000Z",
+        "round": 7,
+        "stadium": "Almeidão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "nautico",
+        "away": "sergipe",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2022-03-06T21:30:00.000Z",
+        "round": 7,
+        "stadium": "Aflitos"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sousa",
+        "away": "globo",
+        "homeScore": "5",
+        "awayScore": "1",
+        "date": "2022-03-06T21:30:00.000Z",
+        "round": 7,
+        "stadium": "Marizão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "atletico de alagoinhas",
+        "away": "sousa",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2022-03-19T20:45:00.000Z",
+        "round": 8,
+        "stadium": "Estádio Municipal Antônio Carneiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sergipe",
+        "away": "bahia",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2022-03-19T20:45:00.000Z",
+        "round": 8,
+        "stadium": "Lourival Baptista"
+    },
+    {
+        "competition": "CNE22",
+        "home": "campinense",
+        "away": "ceara",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2022-03-19T20:45:00.000Z",
+        "round": 8,
+        "stadium": "Amigão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "globo",
+        "away": "nautico",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2022-03-19T20:45:00.000Z",
+        "round": 8,
+        "stadium": "Barrettão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "fortaleza",
+        "away": "crb",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2022-03-19T20:45:00.000Z",
+        "round": 8,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE22",
+        "home": "csa",
+        "away": "altos",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2022-03-19T20:45:00.000Z",
+        "round": 8,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sport",
+        "away": "floresta",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2022-03-19T20:45:00.000Z",
+        "round": 8,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CNE22",
+        "home": "sampaio correa",
+        "away": "botafogo-pb",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2022-03-19T20:45:00.000Z",
+        "round": 8,
+        "stadium": "Castelão-MA"
+    }
+]

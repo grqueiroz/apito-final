@@ -1,0 +1,642 @@
+[
+    {
+        "competition": "CNE20",
+        "home": "imperatriz",
+        "away": "crb",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2020-01-21T22:00:00.000Z",
+        "round": 1,
+        "stadium": "Frei Epifânio D'Abadia"
+    },
+    {
+        "competition": "CNE20",
+        "home": "nautico",
+        "away": "river",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2020-01-23T22:30:00.000Z",
+        "round": 1,
+        "stadium": "Aflitos"
+    },
+    {
+        "competition": "CNE20",
+        "home": "santa cruz",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2020-01-25T19:00:00.000Z",
+        "round": 1,
+        "stadium": "Arruda"
+    },
+    {
+        "competition": "CNE20",
+        "home": "vitoria",
+        "away": "fortaleza",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2020-01-25T19:00:00.000Z",
+        "round": 1,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "csa",
+        "away": "sport",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2020-01-25T21:00:00.000Z",
+        "round": 1,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE20",
+        "home": "america-rn",
+        "away": "botafogo-pb",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2020-01-25T21:00:00.000Z",
+        "round": 1,
+        "stadium": "Arena das Dunas"
+    },
+    {
+        "competition": "CNE20",
+        "home": "confianca",
+        "away": "abc",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2020-01-25T23:00:00.000Z",
+        "round": 1,
+        "stadium": "Batistão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "ceara",
+        "away": "freipaulistano",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2020-01-26T21:00:00.000Z",
+        "round": 1,
+        "stadium": "Presidente Vargas"
+    },
+    {
+        "competition": "CNE20",
+        "home": "bahia",
+        "away": "imperatriz",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2020-01-28T23:00:00.000Z",
+        "round": 2,
+        "stadium": "Pituaçu"
+    },
+    {
+        "competition": "CNE20",
+        "home": "crb",
+        "away": "santa cruz",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2020-01-29T22:30:00.000Z",
+        "round": 2,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE20",
+        "home": "sport",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2020-02-01T19:00:00.000Z",
+        "round": 2,
+        "stadium": "Arena Pernambuco"
+    },
+    {
+        "competition": "CNE20",
+        "home": "river",
+        "away": "csa",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2020-02-01T19:00:00.000Z",
+        "round": 2,
+        "stadium": "Albertão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "fortaleza",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2020-02-01T21:00:00.000Z",
+        "round": 2,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "botafogo-pb",
+        "away": "confianca",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2020-02-01T21:00:00.000Z",
+        "round": 2,
+        "stadium": "Almeidão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "freipaulistano",
+        "away": "nautico",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2020-02-01T23:00:00.000Z",
+        "round": 2,
+        "stadium": "Batistão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "abc",
+        "away": "america-rn",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2020-02-02T21:00:00.000Z",
+        "round": 2,
+        "stadium": "Arena das Dunas"
+    },
+    {
+        "competition": "CNE20",
+        "home": "sport",
+        "away": "imperatriz",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2020-02-06T23:00:00.000Z",
+        "round": 3,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CNE20",
+        "home": "fortaleza",
+        "away": "santa cruz",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2020-02-08T19:00:00.000Z",
+        "round": 3,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "botafogo-pb",
+        "away": "nautico",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2020-02-08T19:00:00.000Z",
+        "round": 3,
+        "stadium": "Almeidão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "abc",
+        "away": "ceara",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2020-02-08T19:00:00.000Z",
+        "round": 3,
+        "stadium": "Frasqueirão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "bahia",
+        "away": "vitoria",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2020-02-08T21:00:00.000Z",
+        "round": 3,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CNE20",
+        "home": "freipaulistano",
+        "away": "confianca",
+        "homeScore": "2",
+        "awayScore": "4",
+        "date": "2020-02-08T23:00:00.000Z",
+        "round": 3,
+        "stadium": "Batistão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "crb",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2020-02-09T21:00:00.000Z",
+        "round": 3,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE20",
+        "home": "river",
+        "away": "america-rn",
+        "homeScore": "2",
+        "awayScore": "3",
+        "date": "2020-02-09T21:00:00.000Z",
+        "round": 3,
+        "stadium": "Albertão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "santa cruz",
+        "away": "abc",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2020-02-13T23:00:00.000Z",
+        "round": 4,
+        "stadium": "Arruda"
+    },
+    {
+        "competition": "CNE20",
+        "home": "ceara",
+        "away": "bahia",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2020-02-15T19:00:00.000Z",
+        "round": 4,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "america-rn",
+        "away": "crb",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2020-02-15T19:00:00.000Z",
+        "round": 4,
+        "stadium": "Arena das Dunas"
+    },
+    {
+        "competition": "CNE20",
+        "home": "nautico",
+        "away": "sport",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2020-02-15T21:00:00.000Z",
+        "round": 4,
+        "stadium": "Aflitos"
+    },
+    {
+        "competition": "CNE20",
+        "home": "confianca",
+        "away": "river",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2020-02-15T23:00:00.000Z",
+        "round": 4,
+        "stadium": "Batistão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "vitoria",
+        "away": "freipaulistano",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2020-02-16T21:00:00.000Z",
+        "round": 4,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "csa",
+        "away": "botafogo-pb",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2020-02-16T21:00:00.000Z",
+        "round": 4,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE20",
+        "home": "imperatriz",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2020-02-17T23:00:00.000Z",
+        "round": 4,
+        "stadium": "Frei Epifânio D'Abadia"
+    },
+    {
+        "competition": "CNE20",
+        "home": "csa",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2020-02-19T22:30:00.000Z",
+        "round": 5,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE20",
+        "home": "confianca",
+        "away": "fortaleza",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2020-02-22T19:00:00.000Z",
+        "round": 5,
+        "stadium": "Batistão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "imperatriz",
+        "away": "river",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2020-02-22T19:00:00.000Z",
+        "round": 5,
+        "stadium": "Frei Epifânio D'Abadia"
+    },
+    {
+        "competition": "CNE20",
+        "home": "america-rn",
+        "away": "sport",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2020-02-22T21:00:00.000Z",
+        "round": 5,
+        "stadium": "Arena das Dunas"
+    },
+    {
+        "competition": "CNE20",
+        "home": "ceara",
+        "away": "botafogo-pb",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2020-02-26T20:00:00.000Z",
+        "round": 5,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "santa cruz",
+        "away": "freipaulistano",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2020-02-26T22:30:00.000Z",
+        "round": 5,
+        "stadium": "Arena Pernambuco"
+    },
+    {
+        "competition": "CNE20",
+        "home": "vitoria",
+        "away": "crb",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2020-02-27T23:00:00.000Z",
+        "round": 5,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "nautico",
+        "away": "abc",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2020-02-27T23:00:00.000Z",
+        "round": 5,
+        "stadium": "Aflitos"
+    },
+    {
+        "competition": "CNE20",
+        "home": "river",
+        "away": "ceara",
+        "homeScore": "0",
+        "awayScore": "4",
+        "date": "2020-03-03T22:30:00.000Z",
+        "round": 6,
+        "stadium": "Lindolfo Monteiro"
+    },
+    {
+        "competition": "CNE20",
+        "home": "crb",
+        "away": "nautico",
+        "homeScore": "2",
+        "awayScore": "3",
+        "date": "2020-03-04T22:30:00.000Z",
+        "round": 6,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE20",
+        "home": "bahia",
+        "away": "confianca",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2020-03-07T19:00:00.000Z",
+        "round": 6,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CNE20",
+        "home": "sport",
+        "away": "santa cruz",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2020-03-07T19:00:00.000Z",
+        "round": 6,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CNE20",
+        "home": "fortaleza",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2020-03-07T21:00:00.000Z",
+        "round": 6,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "botafogo-pb",
+        "away": "imperatriz",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2020-03-07T23:00:00.000Z",
+        "round": 6,
+        "stadium": "Almeidão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "abc",
+        "away": "vitoria",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2020-03-08T21:00:00.000Z",
+        "round": 6,
+        "stadium": "Frasqueirão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "freipaulistano",
+        "away": "america-rn",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2020-03-08T21:00:00.000Z",
+        "round": 6,
+        "stadium": "Titão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "santa cruz",
+        "away": "botafogo-pb",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2020-03-12T22:30:00.000Z",
+        "round": 7,
+        "stadium": "Arruda"
+    },
+    {
+        "competition": "CNE20",
+        "home": "america-rn",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2020-03-14T19:00:00.000Z",
+        "round": 7,
+        "stadium": "Arena das Dunas"
+    },
+    {
+        "competition": "CNE20",
+        "home": "confianca",
+        "away": "crb",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2020-03-14T21:00:00.000Z",
+        "round": 7,
+        "stadium": "Batistão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "nautico",
+        "away": "fortaleza",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2020-03-14T21:00:00.000Z",
+        "round": 7,
+        "stadium": "Aflitos"
+    },
+    {
+        "competition": "CNE20",
+        "home": "imperatriz",
+        "away": "abc",
+        "homeScore": "3",
+        "awayScore": "4",
+        "date": "2020-03-14T23:00:00.000Z",
+        "round": 7,
+        "stadium": "Frei Epifânio D'Abadia"
+    },
+    {
+        "competition": "CNE20",
+        "home": "ceara",
+        "away": "sport",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2020-03-15T18:30:00.000Z",
+        "round": 7,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "vitoria",
+        "away": "river",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2020-03-15T18:30:00.000Z",
+        "round": 7,
+        "stadium": "Barradão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "csa",
+        "away": "freipaulistano",
+        "homeScore": "4",
+        "awayScore": "0",
+        "date": "2020-03-15T21:00:00.000Z",
+        "round": 7,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE20",
+        "home": "sport",
+        "away": "confianca",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2020-03-21T19:00:00.000Z",
+        "round": 8,
+        "stadium": "Ilha do Retiro"
+    },
+    {
+        "competition": "CNE20",
+        "home": "abc",
+        "away": "csa",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2020-03-21T19:00:00.000Z",
+        "round": 8,
+        "stadium": "Frasqueirão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "freipaulistano",
+        "away": "imperatriz",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2020-03-21T19:00:00.000Z",
+        "round": 8,
+        "stadium": "Titão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "crb",
+        "away": "ceara",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2020-03-21T19:00:00.000Z",
+        "round": 8,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CNE20",
+        "home": "bahia",
+        "away": "nautico",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2020-03-21T19:00:00.000Z",
+        "round": 8,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CNE20",
+        "home": "fortaleza",
+        "away": "america-rn",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2020-03-21T19:00:00.000Z",
+        "round": 8,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "botafogo-pb",
+        "away": "vitoria",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2020-03-21T19:00:00.000Z",
+        "round": 8,
+        "stadium": "Almeidão"
+    },
+    {
+        "competition": "CNE20",
+        "home": "river",
+        "away": "santa cruz",
+        "homeScore": "",
+        "awayScore": "",
+        "date": "2020-03-21T19:00:00.000Z",
+        "round": 8,
+        "stadium": "Albertão"
+    }
+]

@@ -1,0 +1,3802 @@
+[
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "botafogo",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-04-27T19:00:00.000Z",
+        "round": 1,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "avai",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-04-27T22:00:00.000Z",
+        "round": 1,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "internacional",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-04-27T22:00:00.000Z",
+        "round": 1,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "cruzeiro",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-04-28T00:00:00.000Z",
+        "round": 1,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "santos",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-04-28T14:00:00.000Z",
+        "round": 1,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "csa",
+        "homeScore": "4",
+        "awayScore": "0",
+        "date": "2019-04-28T19:00:00.000Z",
+        "round": 1,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "corinthians",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-04-28T19:00:00.000Z",
+        "round": 1,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "vasco",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-04-28T19:00:00.000Z",
+        "round": 1,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "fortaleza",
+        "homeScore": "4",
+        "awayScore": "0",
+        "date": "2019-04-28T22:00:00.000Z",
+        "round": 1,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "goias",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-04-28T22:00:00.000Z",
+        "round": 1,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-01T19:00:00.000Z",
+        "round": 2,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "chapecoense",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-01T19:00:00.000Z",
+        "round": 2,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "flamengo",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-01T19:00:00.000Z",
+        "round": 2,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "gremio",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-01T22:15:00.000Z",
+        "round": 2,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-01T22:15:00.000Z",
+        "round": 2,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-05-02T00:30:00.000Z",
+        "round": 2,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-05-02T00:30:00.000Z",
+        "round": 2,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "athletico-pr",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-02T00:30:00.000Z",
+        "round": 2,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "fluminense",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-02T22:15:00.000Z",
+        "round": 2,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "bahia",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-05-02T23:00:00.000Z",
+        "round": 2,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "internacional",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-04T22:00:00.000Z",
+        "round": 3,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "corinthians",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-04T22:00:00.000Z",
+        "round": 3,
+        "stadium": "Arena Amazônia"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-05-05T00:00:00.000Z",
+        "round": 3,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "athletico-pr",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-05T14:00:00.000Z",
+        "round": 3,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "goias",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-05T19:00:00.000Z",
+        "round": 3,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "flamengo",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-05T19:00:00.000Z",
+        "round": 3,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-05T19:00:00.000Z",
+        "round": 3,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "santos",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-05T19:00:00.000Z",
+        "round": 3,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "fluminense",
+        "homeScore": "4",
+        "awayScore": "5",
+        "date": "2019-05-05T22:00:00.000Z",
+        "round": 3,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "avai",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-05T22:00:00.000Z",
+        "round": 3,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "botafogo",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-05-11T19:00:00.000Z",
+        "round": 4,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "gremio",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-11T22:00:00.000Z",
+        "round": 4,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "ceara",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-12T00:00:00.000Z",
+        "round": 4,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "chapecoense",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-12T14:00:00.000Z",
+        "round": 4,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "palmeiras",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-05-12T19:00:00.000Z",
+        "round": 4,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "cruzeiro",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-05-12T19:00:00.000Z",
+        "round": 4,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "vasco",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-05-12T19:00:00.000Z",
+        "round": 4,
+        "stadium": "Pacaembu"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "sao paulo",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-05-12T22:00:00.000Z",
+        "round": 4,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "csa",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-12T22:00:00.000Z",
+        "round": 4,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "bahia",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-12T22:00:00.000Z",
+        "round": 4,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "cruzeiro",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-05-18T21:00:00.000Z",
+        "round": 5,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "santos",
+        "homeScore": "4",
+        "awayScore": "0",
+        "date": "2019-05-18T22:00:00.000Z",
+        "round": 5,
+        "stadium": "Pacaembu"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "flamengo",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-18T22:00:00.000Z",
+        "round": 5,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-19T14:00:00.000Z",
+        "round": 5,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "csa",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-05-19T19:00:00.000Z",
+        "round": 5,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-05-19T19:00:00.000Z",
+        "round": 5,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "botafogo",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-19T19:00:00.000Z",
+        "round": 5,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "corinthians",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-05-19T19:00:00.000Z",
+        "round": 5,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "gremio",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-05-19T22:00:00.000Z",
+        "round": 5,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "avai",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-19T22:00:00.000Z",
+        "round": 5,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "palmeiras",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-05-25T19:00:00.000Z",
+        "round": 6,
+        "stadium": "Mané Garrincha"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-25T22:00:00.000Z",
+        "round": 6,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "internacional",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-05-26T19:00:00.000Z",
+        "round": 6,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "athletico-pr",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-05-26T19:00:00.000Z",
+        "round": 6,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "chapecoense",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-05-26T22:00:00.000Z",
+        "round": 6,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-05-26T22:00:00.000Z",
+        "round": 6,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-26T22:00:00.000Z",
+        "round": 6,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "fluminense",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-05-26T22:00:00.000Z",
+        "round": 6,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-05-27T23:00:00.000Z",
+        "round": 6,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "goias",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-05-27T23:00:00.000Z",
+        "round": 6,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "fortaleza",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-06-01T19:00:00.000Z",
+        "round": 7,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "gremio",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-01T22:00:00.000Z",
+        "round": 7,
+        "stadium": "Pituaçu"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-02T14:00:00.000Z",
+        "round": 7,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "fluminense",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-06-02T19:00:00.000Z",
+        "round": 7,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "santos",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-06-02T19:00:00.000Z",
+        "round": 7,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "cruzeiro",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-06-02T19:00:00.000Z",
+        "round": 7,
+        "stadium": "Pacaembu"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-06-02T22:00:00.000Z",
+        "round": 7,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "avai",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-06-02T22:00:00.000Z",
+        "round": 7,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "csa",
+        "homeScore": "4",
+        "awayScore": "0",
+        "date": "2019-06-02T22:00:00.000Z",
+        "round": 7,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "goias",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-07T22:15:00.000Z",
+        "round": 7,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "internacional",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-06-07T23:30:00.000Z",
+        "round": 8,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "athletico-pr",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-08T19:30:00.000Z",
+        "round": 8,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-08T22:00:00.000Z",
+        "round": 8,
+        "stadium": "Centenário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "corinthians",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-06-08T22:00:00.000Z",
+        "round": 8,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-06-08T22:30:00.000Z",
+        "round": 8,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "sao paulo",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-06-09T00:00:00.000Z",
+        "round": 8,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "atletico-mg",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-06-09T22:00:00.000Z",
+        "round": 8,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "flamengo",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-06-09T22:00:00.000Z",
+        "round": 8,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "botafogo",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-06-09T22:00:00.000Z",
+        "round": 8,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "chapecoense",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-06-10T23:00:00.000Z",
+        "round": 8,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "gremio",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-06-12T22:15:00.000Z",
+        "round": 9,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "cruzeiro",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-06-13T00:00:00.000Z",
+        "round": 9,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "bahia",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-06-13T00:30:00.000Z",
+        "round": 9,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "corinthians",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-13T00:30:00.000Z",
+        "round": 9,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "flamengo",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-06-13T00:30:00.000Z",
+        "round": 9,
+        "stadium": "Mané Garrincha"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-06-13T22:15:00.000Z",
+        "round": 9,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-06-13T23:00:00.000Z",
+        "round": 9,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "avai",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-06-13T23:00:00.000Z",
+        "round": 9,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "fluminense",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-06-13T23:00:00.000Z",
+        "round": 9,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "athletico-pr",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-06-13T23:00:00.000Z",
+        "round": 9,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "vasco",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-13T20:00:00.000Z",
+        "round": 10,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "avai",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-07-13T20:00:00.000Z",
+        "round": 10,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-13T22:00:00.000Z",
+        "round": 10,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "santos",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-13T22:00:00.000Z",
+        "round": 10,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "goias",
+        "homeScore": "6",
+        "awayScore": "1",
+        "date": "2019-07-14T14:00:00.000Z",
+        "round": 10,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "botafogo",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-14T19:00:00.000Z",
+        "round": 10,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-07-14T19:00:00.000Z",
+        "round": 10,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "internacional",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-07-14T19:00:00.000Z",
+        "round": 10,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-07-14T22:00:00.000Z",
+        "round": 10,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-15T23:00:00.000Z",
+        "round": 10,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "fluminense",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-07-20T14:00:00.000Z",
+        "round": 11,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "cruzeiro",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-20T20:00:00.000Z",
+        "round": 11,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "gremio",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-20T22:00:00.000Z",
+        "round": 11,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "palmeiras",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-07-20T22:00:00.000Z",
+        "round": 11,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "athletico-pr",
+        "homeScore": "0",
+        "awayScore": "4",
+        "date": "2019-07-20T22:00:00.000Z",
+        "round": 11,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "santos",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-07-21T14:00:00.000Z",
+        "round": 11,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "fortaleza",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-07-21T19:00:00.000Z",
+        "round": 11,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "flamengo",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-21T19:00:00.000Z",
+        "round": 11,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "goias",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-21T22:00:00.000Z",
+        "round": 11,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "chapecoense",
+        "homeScore": "4",
+        "awayScore": "0",
+        "date": "2019-07-22T23:00:00.000Z",
+        "round": 11,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-07-27T20:00:00.000Z",
+        "round": 12,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-07-27T22:00:00.000Z",
+        "round": 12,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "athletico-pr",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-07-27T22:00:00.000Z",
+        "round": 12,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-07-27T22:00:00.000Z",
+        "round": 12,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-28T14:00:00.000Z",
+        "round": 12,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "avai",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-07-28T19:00:00.000Z",
+        "round": 12,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "botafogo",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-07-28T19:00:00.000Z",
+        "round": 12,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "corinthians",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-07-28T22:00:00.000Z",
+        "round": 12,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "atletico-mg",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-28T22:00:00.000Z",
+        "round": 12,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "gremio",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-07-29T23:00:00.000Z",
+        "round": 12,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "fortaleza",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-03T22:00:00.000Z",
+        "round": 13,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "internacional",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-03T22:00:00.000Z",
+        "round": 13,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "goias",
+        "homeScore": "6",
+        "awayScore": "1",
+        "date": "2019-08-04T14:00:00.000Z",
+        "round": 13,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "botafogo",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-08-04T19:00:00.000Z",
+        "round": 13,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "flamengo",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-08-04T19:00:00.000Z",
+        "round": 13,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "cruzeiro",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-04T22:00:00.000Z",
+        "round": 13,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-04T22:00:00.000Z",
+        "round": 13,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "csa",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-04T22:00:00.000Z",
+        "round": 13,
+        "stadium": "Kleber Andrade"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "chapecoense",
+        "homeScore": "3",
+        "awayScore": "3",
+        "date": "2019-08-05T23:00:00.000Z",
+        "round": 13,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "sao paulo",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-21T22:15:00.000Z",
+        "round": 13,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "chapecoense",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-08-10T20:00:00.000Z",
+        "round": 14,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "santos",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-08-10T20:00:00.000Z",
+        "round": 14,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "gremio",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-08-10T22:00:00.000Z",
+        "round": 14,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "fluminense",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-11T00:00:00.000Z",
+        "round": 14,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "corinthians",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-11T14:00:00.000Z",
+        "round": 14,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "bahia",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-08-11T19:00:00.000Z",
+        "round": 14,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "athletico-pr",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-11T19:00:00.000Z",
+        "round": 14,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "cruzeiro",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-08-11T19:00:00.000Z",
+        "round": 14,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "vasco",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-11T22:00:00.000Z",
+        "round": 14,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "fortaleza",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-08-12T23:00:00.000Z",
+        "round": 14,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "internacional",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-17T20:00:00.000Z",
+        "round": 15,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "botafogo",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-17T20:00:00.000Z",
+        "round": 15,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "flamengo",
+        "homeScore": "1",
+        "awayScore": "4",
+        "date": "2019-08-17T22:00:00.000Z",
+        "round": 15,
+        "stadium": "Mané Garrincha"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-17T22:00:00.000Z",
+        "round": 15,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-18T00:00:00.000Z",
+        "round": 15,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "santos",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-18T19:00:00.000Z",
+        "round": 15,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-18T19:00:00.000Z",
+        "round": 15,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "csa",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-18T19:00:00.000Z",
+        "round": 15,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "goias",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-18T19:00:00.000Z",
+        "round": 15,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "avai",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-18T22:00:00.000Z",
+        "round": 15,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-24T14:00:00.000Z",
+        "round": 16,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "athletico-pr",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-24T20:00:00.000Z",
+        "round": 16,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "fortaleza",
+        "homeScore": "3",
+        "awayScore": "3",
+        "date": "2019-08-25T19:00:00.000Z",
+        "round": 16,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "sao paulo",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-08-25T19:00:00.000Z",
+        "round": 16,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "internacional",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-08-25T19:00:00.000Z",
+        "round": 16,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "flamengo",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2019-08-25T22:00:00.000Z",
+        "round": 16,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "corinthians",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-25T22:00:00.000Z",
+        "round": 16,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "cruzeiro",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-08-25T22:00:00.000Z",
+        "round": 16,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "chapecoense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-26T23:00:00.000Z",
+        "round": 16,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "fluminense",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-09-11T00:00:00.000Z",
+        "round": 16,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "gremio",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-08-31T14:00:00.000Z",
+        "round": 17,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-31T20:00:00.000Z",
+        "round": 17,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "santos",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-08-31T22:00:00.000Z",
+        "round": 17,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-08-31T22:00:00.000Z",
+        "round": 17,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "botafogo",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-09-01T00:00:00.000Z",
+        "round": 17,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "goias",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-01T19:00:00.000Z",
+        "round": 17,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "palmeiras",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-09-01T19:00:00.000Z",
+        "round": 17,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-01T22:00:00.000Z",
+        "round": 17,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-01T22:00:00.000Z",
+        "round": 17,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "avai",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-09-02T23:00:00.000Z",
+        "round": 17,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "ceara",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-09-07T14:00:00.000Z",
+        "round": 18,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-09-07T14:00:00.000Z",
+        "round": 18,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "fluminense",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-09-07T20:00:00.000Z",
+        "round": 18,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "flamengo",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2019-09-07T20:00:00.000Z",
+        "round": 18,
+        "stadium": "Mané Garrincha"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-07T22:00:00.000Z",
+        "round": 18,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-09-08T00:00:00.000Z",
+        "round": 18,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "gremio",
+        "homeScore": "1",
+        "awayScore": "4",
+        "date": "2019-09-08T14:00:00.000Z",
+        "round": 18,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "athletico-pr",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-08T19:00:00.000Z",
+        "round": 18,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "atletico-mg",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-08T19:00:00.000Z",
+        "round": 18,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "chapecoense",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-08T22:00:00.000Z",
+        "round": 18,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "santos",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-14T20:00:00.000Z",
+        "round": 19,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "cruzeiro",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-14T22:00:00.000Z",
+        "round": 19,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-09-14T22:00:00.000Z",
+        "round": 19,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "botafogo",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-09-15T00:00:00.000Z",
+        "round": 19,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "internacional",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-09-15T14:00:00.000Z",
+        "round": 19,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "avai",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-09-15T14:00:00.000Z",
+        "round": 19,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "goias",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-09-15T19:00:00.000Z",
+        "round": 19,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "corinthians",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-15T19:00:00.000Z",
+        "round": 19,
+        "stadium": "Mané Garrincha"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-15T19:00:00.000Z",
+        "round": 19,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-15T22:00:00.000Z",
+        "round": 19,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-09-21T14:00:00.000Z",
+        "round": 20,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "flamengo",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-09-21T20:00:00.000Z",
+        "round": 20,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "bahia",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-21T22:00:00.000Z",
+        "round": 20,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "gremio",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2019-09-22T00:00:00.000Z",
+        "round": 20,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "chapecoense",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-22T14:00:00.000Z",
+        "round": 20,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "palmeiras",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-09-22T19:00:00.000Z",
+        "round": 20,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "athletico-pr",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-22T19:00:00.000Z",
+        "round": 20,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-22T19:00:00.000Z",
+        "round": 20,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "fluminense",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-09-22T22:00:00.000Z",
+        "round": 20,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-23T23:00:00.000Z",
+        "round": 20,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "cruzeiro",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-09-25T22:30:00.000Z",
+        "round": 21,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "goias",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-09-26T00:30:00.000Z",
+        "round": 21,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "internacional",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-09-26T00:30:00.000Z",
+        "round": 21,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "botafogo",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-26T00:30:00.000Z",
+        "round": 21,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "csa",
+        "homeScore": "6",
+        "awayScore": "2",
+        "date": "2019-09-26T22:15:00.000Z",
+        "round": 21,
+        "stadium": "Pacaembu"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "avai",
+        "homeScore": "6",
+        "awayScore": "1",
+        "date": "2019-09-26T23:00:00.000Z",
+        "round": 21,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "santos",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-26T23:00:00.000Z",
+        "round": 21,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "fortaleza",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-09-27T00:30:00.000Z",
+        "round": 21,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-02T22:15:00.000Z",
+        "round": 21,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "corinthians",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-02T22:15:00.000Z",
+        "round": 21,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "sao paulo",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-09-28T22:00:00.000Z",
+        "round": 22,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-29T14:00:00.000Z",
+        "round": 22,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-29T19:00:00.000Z",
+        "round": 22,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "csa",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-09-29T19:00:00.000Z",
+        "round": 22,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "gremio",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-29T19:00:00.000Z",
+        "round": 22,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "ceara",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-09-29T22:00:00.000Z",
+        "round": 22,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "chapecoense",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-09-29T22:00:00.000Z",
+        "round": 22,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "botafogo",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-30T23:00:00.000Z",
+        "round": 22,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-09-30T23:00:00.000Z",
+        "round": 22,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "cruzeiro",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-09-30T23:00:00.000Z",
+        "round": 22,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "fortaleza",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-05T20:00:00.000Z",
+        "round": 23,
+        "stadium": "Pacaembu"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "santos",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-05T20:00:00.000Z",
+        "round": 23,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "corinthians",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-05T22:00:00.000Z",
+        "round": 23,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "athletico-pr",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-05T22:00:00.000Z",
+        "round": 23,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "internacional",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-06T00:00:00.000Z",
+        "round": 23,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "flamengo",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-06T14:00:00.000Z",
+        "round": 23,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "goias",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-06T19:00:00.000Z",
+        "round": 23,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-06T19:00:00.000Z",
+        "round": 23,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "fluminense",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-06T19:00:00.000Z",
+        "round": 23,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "avai",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-10-06T22:00:00.000Z",
+        "round": 23,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "goias",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-10-09T22:15:00.000Z",
+        "round": 24,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "internacional",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-09T22:15:00.000Z",
+        "round": 24,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "chapecoense",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-09T23:30:00.000Z",
+        "round": 24,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "ceara",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-10T00:00:00.000Z",
+        "round": 24,
+        "stadium": "Centenário de Caxias"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "sao paulo",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-10T00:00:00.000Z",
+        "round": 24,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "fluminense",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-10T00:30:00.000Z",
+        "round": 24,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "palmeiras",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-10T00:30:00.000Z",
+        "round": 24,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "athletico-pr",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-10T22:15:00.000Z",
+        "round": 24,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "vasco",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-10T22:15:00.000Z",
+        "round": 24,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "atletico-mg",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-10-10T23:00:00.000Z",
+        "round": 24,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-12T20:00:00.000Z",
+        "round": 25,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "bahia",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-12T22:00:00.000Z",
+        "round": 25,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "botafogo",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-13T00:00:00.000Z",
+        "round": 25,
+        "stadium": "Pacaembu"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "santos",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-13T19:00:00.000Z",
+        "round": 25,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "avai",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-13T19:00:00.000Z",
+        "round": 25,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-13T19:00:00.000Z",
+        "round": 25,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "flamengo",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-10-13T19:00:00.000Z",
+        "round": 25,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "corinthians",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-13T21:00:00.000Z",
+        "round": 25,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "gremio",
+        "homeScore": "1",
+        "awayScore": "4",
+        "date": "2019-10-13T22:00:00.000Z",
+        "round": 25,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "cruzeiro",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-13T22:00:00.000Z",
+        "round": 25,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "bahia",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-16T22:15:00.000Z",
+        "round": 26,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "atletico-mg",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-16T22:15:00.000Z",
+        "round": 26,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "flamengo",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-16T23:00:00.000Z",
+        "round": 26,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-17T00:00:00.000Z",
+        "round": 26,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "chapecoense",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-17T00:00:00.000Z",
+        "round": 26,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "botafogo",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-17T00:30:00.000Z",
+        "round": 26,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "corinthians",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-17T00:30:00.000Z",
+        "round": 26,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "ceara",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-17T22:15:00.000Z",
+        "round": 26,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "internacional",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-10-17T22:15:00.000Z",
+        "round": 26,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "athletico-pr",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-18T00:00:00.000Z",
+        "round": 26,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "gremio",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-19T20:00:00.000Z",
+        "round": 27,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "cruzeiro",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-19T22:00:00.000Z",
+        "round": 27,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "vasco",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-10-20T19:00:00.000Z",
+        "round": 27,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "santos",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-20T19:00:00.000Z",
+        "round": 27,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "avai",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-20T19:00:00.000Z",
+        "round": 27,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "fluminense",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-20T21:00:00.000Z",
+        "round": 27,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-20T22:00:00.000Z",
+        "round": 27,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "goias",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-20T22:00:00.000Z",
+        "round": 27,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-21T22:30:00.000Z",
+        "round": 27,
+        "stadium": "Pituaçu"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "csa",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-21T23:00:00.000Z",
+        "round": 27,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-26T20:00:00.000Z",
+        "round": 28,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "santos",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-10-26T20:00:00.000Z",
+        "round": 28,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "internacional",
+        "homeScore": "2",
+        "awayScore": "3",
+        "date": "2019-10-26T22:00:00.000Z",
+        "round": 28,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "chapecoense",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-26T22:30:00.000Z",
+        "round": 28,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-10-27T00:00:00.000Z",
+        "round": 28,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "botafogo",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-10-27T19:00:00.000Z",
+        "round": 28,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "atletico-mg",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-27T19:00:00.000Z",
+        "round": 28,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "goias",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-10-27T19:00:00.000Z",
+        "round": 28,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-10-27T21:00:00.000Z",
+        "round": 28,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-27T22:00:00.000Z",
+        "round": 28,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "sao paulo",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-10-30T22:30:00.000Z",
+        "round": 29,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "chapecoense",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-10-30T22:30:00.000Z",
+        "round": 29,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-10-30T22:30:00.000Z",
+        "round": 29,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "fluminense",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-10-31T00:30:00.000Z",
+        "round": 29,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "gremio",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-10-31T00:30:00.000Z",
+        "round": 29,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "corinthians",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-10-31T00:30:00.000Z",
+        "round": 29,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "bahia",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-10-31T22:15:00.000Z",
+        "round": 29,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "flamengo",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-10-31T23:00:00.000Z",
+        "round": 29,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "athletico-pr",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-01T00:30:00.000Z",
+        "round": 29,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "cruzeiro",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-11-01T00:30:00.000Z",
+        "round": 29,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "atletico-mg",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-11-02T20:00:00.000Z",
+        "round": 30,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-02T22:00:00.000Z",
+        "round": 30,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "vasco",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-02T22:00:00.000Z",
+        "round": 30,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "sao paulo",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2019-11-03T00:00:00.000Z",
+        "round": 30,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "corinthians",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-11-03T19:00:00.000Z",
+        "round": 30,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "internacional",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-03T21:00:00.000Z",
+        "round": 30,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "csa",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-03T21:00:00.000Z",
+        "round": 30,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "bahia",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-03T22:00:00.000Z",
+        "round": 30,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "botafogo",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-11-03T22:00:00.000Z",
+        "round": 30,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "avai",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-03T22:30:00.000Z",
+        "round": 30,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "fortaleza",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-11-06T22:30:00.000Z",
+        "round": 31,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "goias",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-06T23:00:00.000Z",
+        "round": 31,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "santos",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-07T00:00:00.000Z",
+        "round": 31,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-07T00:30:00.000Z",
+        "round": 31,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "chapecoense",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-07T00:30:00.000Z",
+        "round": 31,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "cruzeiro",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-07T00:30:00.000Z",
+        "round": 31,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "internacional",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-07T22:30:00.000Z",
+        "round": 31,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "fluminense",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-11-07T22:30:00.000Z",
+        "round": 31,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "flamengo",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-07T23:00:00.000Z",
+        "round": 31,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "csa",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-11-08T00:00:00.000Z",
+        "round": 31,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "santos",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2019-11-09T20:00:00.000Z",
+        "round": 32,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "corinthians",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-09T22:00:00.000Z",
+        "round": 32,
+        "stadium": "Pacaembu"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "fluminense",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-11-10T19:00:00.000Z",
+        "round": 32,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "atletico-mg",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-10T19:00:00.000Z",
+        "round": 32,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "athletico-pr",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-10T19:00:00.000Z",
+        "round": 32,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "bahia",
+        "homeScore": "3",
+        "awayScore": "1",
+        "date": "2019-11-10T21:00:00.000Z",
+        "round": 32,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-10T22:00:00.000Z",
+        "round": 32,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "gremio",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-10T22:00:00.000Z",
+        "round": 32,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "vasco",
+        "homeScore": "0",
+        "awayScore": "3",
+        "date": "2019-11-10T22:00:00.000Z",
+        "round": 32,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "avai",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-11T23:00:00.000Z",
+        "round": 32,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-16T20:00:00.000Z",
+        "round": 33,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-16T22:00:00.000Z",
+        "round": 33,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "flamengo",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-17T19:00:00.000Z",
+        "round": 33,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-17T19:00:00.000Z",
+        "round": 33,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "internacional",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-17T21:00:00.000Z",
+        "round": 33,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-17T21:00:00.000Z",
+        "round": 33,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "botafogo",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-17T21:00:00.000Z",
+        "round": 33,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "csa",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-11-17T22:00:00.000Z",
+        "round": 33,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "goias",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-18T22:30:00.000Z",
+        "round": 33,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "avai",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-11-18T23:00:00.000Z",
+        "round": 33,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "vasco",
+        "homeScore": "4",
+        "awayScore": "4",
+        "date": "2019-11-14T00:30:00.000Z",
+        "round": 34,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "cruzeiro",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-11-24T00:00:00.000Z",
+        "round": 34,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "gremio",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-24T19:00:00.000Z",
+        "round": 34,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "athletico-pr",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-24T19:00:00.000Z",
+        "round": 34,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "bahia",
+        "homeScore": "4",
+        "awayScore": "3",
+        "date": "2019-11-24T19:00:00.000Z",
+        "round": 34,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "corinthians",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-24T21:00:00.000Z",
+        "round": 34,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "fortaleza",
+        "homeScore": "2",
+        "awayScore": "2",
+        "date": "2019-11-24T22:00:00.000Z",
+        "round": 34,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-24T22:00:00.000Z",
+        "round": 34,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "chapecoense",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-24T22:00:00.000Z",
+        "round": 34,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "fluminense",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-25T23:00:00.000Z",
+        "round": 34,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "goias",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-11-27T22:30:00.000Z",
+        "round": 35,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "botafogo",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-27T22:30:00.000Z",
+        "round": 35,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "atletico-mg",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-28T00:00:00.000Z",
+        "round": 35,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "avai",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-11-28T00:30:00.000Z",
+        "round": 35,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "ceara",
+        "homeScore": "4",
+        "awayScore": "1",
+        "date": "2019-11-28T00:30:00.000Z",
+        "round": 35,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "gremio",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-11-28T00:30:00.000Z",
+        "round": 35,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "palmeiras",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-28T22:30:00.000Z",
+        "round": 35,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "santos",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-11-28T23:00:00.000Z",
+        "round": 35,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-11-28T23:30:00.000Z",
+        "round": 35,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "csa",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-29T00:30:00.000Z",
+        "round": 35,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "athletico-pr",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-11-30T22:00:00.000Z",
+        "round": 36,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "internacional",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-11-30T22:00:00.000Z",
+        "round": 36,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "flamengo",
+        "homeScore": "1",
+        "awayScore": "3",
+        "date": "2019-12-01T19:00:00.000Z",
+        "round": 36,
+        "stadium": "Allianz Parque"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "fluminense",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-12-01T19:00:00.000Z",
+        "round": 36,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "fortaleza",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-12-01T19:00:00.000Z",
+        "round": 36,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "corinthians",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-12-01T21:00:00.000Z",
+        "round": 36,
+        "stadium": "Independência"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "bahia",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-12-01T21:00:00.000Z",
+        "round": 36,
+        "stadium": "Rei Pelé"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "sao paulo",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-12-01T22:00:00.000Z",
+        "round": 36,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "chapecoense",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-12-01T22:00:00.000Z",
+        "round": 36,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "cruzeiro",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-12-02T23:00:00.000Z",
+        "round": 36,
+        "stadium": "São Januário"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "athletico-pr",
+        "away": "santos",
+        "homeScore": "1",
+        "awayScore": "0",
+        "date": "2019-12-04T22:00:00.000Z",
+        "round": 37,
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "atletico-mg",
+        "away": "botafogo",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-12-04T22:30:00.000Z",
+        "round": 37,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "ceara",
+        "away": "corinthians",
+        "homeScore": "0",
+        "awayScore": "1",
+        "date": "2019-12-04T22:30:00.000Z",
+        "round": 37,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "chapecoense",
+        "away": "csa",
+        "homeScore": "3",
+        "awayScore": "0",
+        "date": "2019-12-05T00:00:00.000Z",
+        "round": 37,
+        "stadium": "Arena Condá"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "sao paulo",
+        "away": "internacional",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-12-05T00:30:00.000Z",
+        "round": 37,
+        "stadium": "Morumbi"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fluminense",
+        "away": "fortaleza",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-12-05T00:30:00.000Z",
+        "round": 37,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "palmeiras",
+        "away": "goias",
+        "homeScore": "5",
+        "awayScore": "1",
+        "date": "2019-12-05T22:15:00.000Z",
+        "round": 37,
+        "stadium": "Brinco de Ouro da Princesa"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "gremio",
+        "away": "cruzeiro",
+        "homeScore": "2",
+        "awayScore": "0",
+        "date": "2019-12-05T22:15:00.000Z",
+        "round": 37,
+        "stadium": "Grêmio Arena"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "bahia",
+        "away": "vasco",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-12-05T22:15:00.000Z",
+        "round": 37,
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "flamengo",
+        "away": "avai",
+        "homeScore": "6",
+        "awayScore": "1",
+        "date": "2019-12-05T23:00:00.000Z",
+        "round": 37,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "cruzeiro",
+        "away": "palmeiras",
+        "homeScore": "0",
+        "awayScore": "2",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Mineirão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "internacional",
+        "away": "atletico-mg",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Beira-Rio"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "fortaleza",
+        "away": "bahia",
+        "homeScore": "2",
+        "awayScore": "1",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Castelão"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "corinthians",
+        "away": "fluminense",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Arena Corinthians"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "santos",
+        "away": "flamengo",
+        "homeScore": "4",
+        "awayScore": "0",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "vasco",
+        "away": "chapecoense",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Maracanã"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "botafogo",
+        "away": "ceara",
+        "homeScore": "1",
+        "awayScore": "1",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Nilton Santos"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "avai",
+        "away": "athletico-pr",
+        "homeScore": "0",
+        "awayScore": "0",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Ressacada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "goias",
+        "away": "gremio",
+        "homeScore": "3",
+        "awayScore": "2",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Serra Dourada"
+    },
+    {
+        "competition": "CBRA19",
+        "home": "csa",
+        "away": "sao paulo",
+        "homeScore": "1",
+        "awayScore": "2",
+        "date": "2019-12-08T19:00:00.000Z",
+        "round": 38,
+        "stadium": "Rei Pelé"
+    }
+]

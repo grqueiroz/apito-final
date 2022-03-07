@@ -4,7 +4,7 @@
   "description": "A project for people to get information about brazilian football matches and competitions",
   "main": "app.js",
   "scripts": {
-    "start": "node src/app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -33,12 +33,12 @@
     "mongoose": "^6.2.4"
   },
   "_moduleAliases": {
-    "@api": "src/api",
-    "@components": "src/components",
-    "@config": "src/config",
-    "@middleware": "src/middleware",
-    "@pretty": "src/pretty",
-    "@setup": "src/setup",
-    "@utils": "src/utils"
+    "@api": "api",
+    "@components": "components",
+    "@config": "config",
+    "@middleware": "middleware",
+    "@pretty": "pretty",
+    "@setup": "setup",
+    "@utils": "utils"
   }
 }
