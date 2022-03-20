@@ -10,21 +10,21 @@ class MatchLine {
     }
 
     buildMatchLines() {
-        const matchLines = this.matches.map( match => {
+        const matchLines = this.matches.map(match => {
             if (!match) {
                 return;
             }
 
             const { homeFlag, awayFlag } = colorsService.getHomeAndAwayFlags(match);
 
-            const matchLine = 
+            const matchLine =
                 buildRound(match) +
                 buildHome(match, homeFlag) +
                 buildVersus() +
                 buildAway(match, awayFlag) +
                 buildDate(match) +
                 buildStadium(match);
-        
+
             return matchLine;
         });
 
@@ -49,7 +49,7 @@ function buildAway(match, awayFlag = '') {
 }
 
 function buildDate(match) {
-    return `${match.date.toLocaleString('pt-BR')} `;
+    return `${match.date.toLocaleString('pt-BR', { timeZone: "America/Sao_Paulo" })} `;
 }
 
 function buildStadium(match) {

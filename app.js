@@ -21,3 +21,5 @@ controllerManager.register(app);
 console.log(`Starting application at port ${port}`);
 
 app.listen(port);
+
+console.log(`Listening!`);

@@ -27,7 +27,6 @@ module.exports = function (app) {
 
         const matches = await service.getSummary(filter);
 
-        // res.set('Content-type', 'text/plain; charset=utf-8');
         res.send(matches);
     });
 
