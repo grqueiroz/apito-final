@@ -30,7 +30,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "module-alias": "^2.2.2",
-    "mongoose": "^6.2.4"
+    "mongoose": "^6.4.6"
   },
   "_moduleAliases": {
     "@api": "src/api",
